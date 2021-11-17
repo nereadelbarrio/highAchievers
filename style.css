@@ -1232,7 +1232,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     background-image: url(images/icono_caja_02derecha.png);
     content: " ";
     position: absolute;
-    left: 10%;
+    right: 30%;
     margin-top: -5px;
     z-index: 100;
     padding: 10px;
