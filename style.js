@@ -28,7 +28,7 @@
 				{ name: 'Título Wordlist', element: 'h2', attributes: { 'class': 'bck-title-13'} },
 				{ name: 'Título GrammarReference', element: 'h2', attributes: { 'class': 'bck-title-14'} },
 				
-				{ name: 'NumeroIntro', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
+				{ name: 'Énfasis 01', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
 				{ name: 'Énfasis naranja', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
 				{ name: 'Énfasis negro', element: 'span', attributes: { 'class': 'bck-enfasis-3'} },
 				{ name: 'FontEjemplos', element: 'span', attributes: { 'class': 'bck-enfasis-4'} },
