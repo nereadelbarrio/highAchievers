@@ -486,7 +486,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 .bck-title-1 {
     color: #EC6F59;
     border: 2px solid #ec6f59 !important;
-    font-size: 2rem;
+    font-size: 2.4rem;
     background: #ffffff;
     width: fit-content;
     padding: 7PX 70PX 7px 24px;
@@ -512,10 +512,10 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 .bck-title-2 {
-    color: #0fa77e;
-    font-size: 3rem;
+    color: #EC6F59;
+    font-size: 2.4rem;
     text-align: left;
-    font-family: Conv_FuturaStd-Book
+    /*font-family: Conv_FuturaStd-Book*/
 }
 
 .bck-title-3 {
@@ -2526,6 +2526,18 @@ table td.bck-td-10 {
     border-color: #f5d9b7;
 }
 
+/*activitytag*/
+.activitytag_vocabulary .bck-title-1 {
+    color: #208FCF;
+    border: 2px solid #208FCF !important;
+}
+
+.activitytag_vocabulary .bck-title-2 {
+    color: #208FCF;
+}
+
+/*unittag*/
+
 #list-units .unittag_activities_highAchivers {
     padding-left: 20px
 }
@@ -2536,6 +2548,7 @@ table td.bck-td-10 {
     background-color: #0ca1ea!important
 }
 
+/*coursetag*/
 .coursetag_highAchivers_2 .bck-title-2 {
     color: #80539d
 }
