@@ -459,6 +459,10 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     color: #000
 }*/
 
+/*.bck-title {
+    border-bottom: none;
+}*/
+
 .bck-title-1 {
     color: #EC6F59;
     border: 2px solid #ec6f59;
