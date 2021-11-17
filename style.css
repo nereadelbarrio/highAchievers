@@ -387,9 +387,11 @@ body #actividad .workspace.chooseblanks .inline-answer a {
     background: rgba(224,247,255,.6196078431372549)
 }
 
-.slide_main .img-input-container,.slide_main input {
-    border-bottom-color: #7a7a7a;
-    background-color: #e2e2e2
+.slide_main .img-input-container,
+ .slide_main input {
+    border-bottom-color: #aa9b8a;
+    background-color: #F2E7D8;
+    box-shadow: inset 0px 2px 5px 0px #bfb5a9;
 }
 
 .cke_inner,.cke_wysiwyg_div {
@@ -2499,14 +2501,16 @@ table td.bck-td-10 {
 }
 
 .slide_main input:focus {
-    border-color: #11b2ef
+    border-color: #f5d9b7;
 }
 
 #list-units .unittag_activities_highAchivers {
     padding-left: 20px
 }
 
-#list-units .unittag_activities_highAchivers:active:not(.disabled),#list-units .unittag_activities_highAchivers:focus:not(.disabled),#list-units .unittag_activities_highAchivers:hover:not(.disabled) {
+#list-units .unittag_activities_highAchivers:active:not(.disabled),
+#list-units .unittag_activities_highAchivers:focus:not(.disabled),
+#list-units .unittag_activities_highAchivers:hover:not(.disabled) {
     background-color: #0ca1ea!important
 }
 
