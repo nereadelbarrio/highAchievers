@@ -413,8 +413,9 @@ body #actividad .workspace.chooseblanks .inline-answer a {
     line-height: 1.3
 }
 
+/*audios*/
 #actividad .player.audio {
-    background-image: url(images/rich_english_U7_pg64_img_0004.png);
+    background-image: url(images/icono_audio_rojo.png);
     -webkit-background-size: 100% 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
@@ -428,7 +429,9 @@ body #actividad .workspace.chooseblanks .inline-answer a {
     box-shadow: 2px 2px 2px undefinedpx #a8a3a2
 }
 
-#actividad .content img.player,#actividad .player.audio,#actividad .player.video,#help-panel-content .player,#remote-alert-modal-rich .player {
+#actividad .content img.player,
+#actividad .player.audio,#actividad .player.video,
+#help-panel-content .player,#remote-alert-modal-rich .player {
     height: 30px!important;
     width: 35px;
     display: inline-block;
@@ -438,7 +441,10 @@ body #actividad .workspace.chooseblanks .inline-answer a {
     padding: 0
 }
 
-#actividad .player.audio,#actividad .player.video,#help-panel-content .player,#remote-alert-modal-rich .player {
+#actividad .player.audio,
+#actividad .player.video,
+#help-panel-content .player,
+#remote-alert-modal-rich .player {
     background-color: rgba(0,128,0,0)
 }
 
@@ -446,7 +452,9 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     background-color: transparent
 }
 
-#actividad .content img.player,#actividad .player.audio,#actividad .player.video,#help-panel-content .player,#remote-alert-modal-rich .player:hover {
+#actividad .content img.player,#actividad .player.audio,
+#actividad .player.video,#help-panel-content .player,
+#remote-alert-modal-rich .player:hover {
     -webkit-box-shadow: 2px 2px 2px undefinedpx #a8a3a2;
     box-shadow: 2px 2px 2px undefinedpx #a8a3a2
 }
@@ -1913,8 +1921,9 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     color: #728fa6
 }
 
+/*iconos*/
 .item-container .icon-hablar:before {
-    background-image: url(images/rich_english_U7_pg64_img_0003.png);
+    background-image: url(images/icono_hablar_rojo.png);
     content: "";
     background-repeat: no-repeat;
     -webkit-background-size: contain;
@@ -2928,7 +2937,8 @@ table td.bck-td-10 {
     background-image: url(images/icono_libro_azul.png)
 }
 
-.coursetag_highAchivers_4 #actividad .player.audio,.coursetag_highAchivers_4 .item-container .icon-musica:before {
+.coursetag_highAchivers_4 #actividad .player.audio,
+.coursetag_highAchivers_4 .item-container .icon-musica:before {
     background-image: url(images/icono_audio_azul.png)
 }
 
