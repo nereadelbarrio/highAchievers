@@ -1193,7 +1193,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     width: fit-content;
 }
 
-.bck-box.bck-box-2:before {
+.bck-box.bck-box-2:after {
     background-image: url(images/icono_caja_02.png);
     content: " ";
     position: absolute;
