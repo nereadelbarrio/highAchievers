@@ -29,7 +29,7 @@
 				{ name: 'Título GrammarReference', element: 'h2', attributes: { 'class': 'bck-title-14'} },
 				
 				{ name: 'Énfasis 01', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
-				{ name: 'Énfasis naranja', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
+				{ name: 'Énfasis 02', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
 				{ name: 'Énfasis negro', element: 'span', attributes: { 'class': 'bck-enfasis-3'} },
 				{ name: 'FontEjemplos', element: 'span', attributes: { 'class': 'bck-enfasis-4'} },
 				{ name: 'Énfasis azul', element: 'span', attributes: { 'class': 'bck-enfasis-5'} },
@@ -40,10 +40,9 @@
 				{ name: 'Énfasis 10', element: 'span', attributes: { 'class': 'bck-enfasis-10'} },
 				{ name: 'Énfasis verde', element: 'span', attributes: { 'class': 'bck-enfasis-11'} },
 
-				
-				{ name: 'Lista Desordenada', element: 'ul', attributes: { 'class': 'bck-ul-3'} },
-				{ name: 'Lista des 1', element: 'ul', attributes: { 'class': 'bck-ul-1'} },
+				{ name: 'Lista desordenada 01', element: 'ul', attributes: { 'class': 'bck-ul-1'} },
 				{ name: 'Lista DesNaranja', element: 'ul', attributes: { 'class': 'bck-ul-2'} },
+				{ name: 'Lista Desordenada', element: 'ul', attributes: { 'class': 'bck-ul-3'} },
 				{ name: 'Lista Desordenada 4', element: 'ul', attributes: { 'class': 'bck-ul-4'} },
 				{ name: 'Lista Desordenada 5', element: 'ul', attributes: { 'class': 'bck-ul-5'} },
 							
