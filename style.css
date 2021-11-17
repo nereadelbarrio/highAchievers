@@ -1149,7 +1149,13 @@ background-image: url(images/icono_caja_01.png);
     background-repeat: no-repeat;
     background-size: contain;
     display: inline-block;
+        top: 12px;
+    border: none;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
 }
+
 
 .bck-box.bck-box-1 .bck-content {
     padding-left: 0
