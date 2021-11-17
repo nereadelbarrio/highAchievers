@@ -30,7 +30,7 @@
 				
 				{ name: 'Énfasis 01', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
 				{ name: 'Énfasis 02', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
-				{ name: 'Énfasis negro', element: 'span', attributes: { 'class': 'bck-enfasis-3'} },
+				{ name: 'Énfasis 03', element: 'span', attributes: { 'class': 'bck-enfasis-3'} },
 				{ name: 'FontEjemplos', element: 'span', attributes: { 'class': 'bck-enfasis-4'} },
 				{ name: 'Énfasis azul', element: 'span', attributes: { 'class': 'bck-enfasis-5'} },
 				{ name: 'Énfasis morado', element: 'span', attributes: { 'class': 'bck-enfasis-6'} },
@@ -40,15 +40,15 @@
 				{ name: 'Énfasis 10', element: 'span', attributes: { 'class': 'bck-enfasis-10'} },
 				{ name: 'Énfasis verde', element: 'span', attributes: { 'class': 'bck-enfasis-11'} },
 
-				{ name: 'Lista desordenada 01', element: 'ul', attributes: { 'class': 'bck-ul-1'} },
+				{ name: 'Lista 01', element: 'ul', attributes: { 'class': 'bck-ul-1'} },
 				{ name: 'Lista DesNaranja', element: 'ul', attributes: { 'class': 'bck-ul-2'} },
 				{ name: 'Lista Desordenada', element: 'ul', attributes: { 'class': 'bck-ul-3'} },
 				{ name: 'Lista Desordenada 4', element: 'ul', attributes: { 'class': 'bck-ul-4'} },
 				{ name: 'Lista Desordenada 5', element: 'ul', attributes: { 'class': 'bck-ul-5'} },
 							
-				{ name: 'Lista 1', element: 'ol', attributes: { 'class': 'bck-ol-1' } },
-				{ name: 'Lista 2', element: 'ol', attributes: { 'class': 'bck-ol-2' } },
-				{ name: 'Lista 3', element: 'ol', attributes: { 'class': 'bck-ol-3' } },
+				{ name: 'Lista 01', element: 'ol', attributes: { 'class': 'bck-ol-1' } },
+				{ name: 'Lista 02', element: 'ol', attributes: { 'class': 'bck-ol-2' } },
+				{ name: 'Lista 03', element: 'ol', attributes: { 'class': 'bck-ol-3' } },
 				{ name: 'Lista LetraMinus', element: 'ol', attributes: { 'class': 'bck-ol-4' } },
 				{ name: 'Lista LetraMinusMorada', element: 'ol', attributes: { 'class': 'bck-ol-5' } },
 				{ name: 'Lista Ordenada 6', element: 'ol', attributes: { 'class': 'bck-ol-6' } },
