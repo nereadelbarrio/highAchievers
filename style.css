@@ -1130,7 +1130,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     position: relative;
     BORDER: 3px solid #ec6f59;
     border-radius: 20px 80px 20px 80px;
-    border-left: 146px solid #ec6f59;
+    border-left: 130px solid #ec6f59;
     padding: 30px;
 }
 
@@ -1140,16 +1140,16 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 .bck-box.bck-box-1:before {
-background-image: url(images/icono_caja_01.png);
+    background-image: url(images/icono_caja_01.png);
     content: " ";
     position: absolute;
-    left: -42px;
+    left: -120px;
     z-index: 100;
-    padding: 70px;
+    padding: 41px;
     background-repeat: no-repeat;
     background-size: contain;
     display: inline-block;
-        top: 12px;
+    top: 12px;
     border: none;
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
