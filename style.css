@@ -1186,10 +1186,25 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 .bck-box.bck-box-2 .bck-content {
-    background-color: #dfefe4;
-    padding: 8px 8px 8px 19px;
-    box-shadow: 9px 10px 0 -6px #20aa72
+    background-color: #ffffff;
+    border: 1px solid #ec6f59;
+    border-radius: 30px 30px 30px 30px;
+    padding: 8px 18px 8px 19px;
+    width: fit-content;
 }
+
+.bck-box.bck-box-2:before {
+    background-image: url(images/icono_caja_02.png);
+    content: " ";
+    position: absolute;
+    left: -42px;
+    z-index: 100;
+    padding: 70px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+}
+
 
 .bck-box.bck-box-3 {
     margin-top: 20px;
