@@ -656,9 +656,10 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 .bck-enfasis-2 {
     font-size: 2.3rem;
-    font-family: Conv_FuturaStd-Medium;
-    color: #f18800;
-    font-weight: 700
+    /* font-family: Conv_FuturaStd-Medium; */
+    color: #2298D4;
+    font-weight: 500;
+    font-style: italic;
 }
 
 .bck-enfasis-3 {
@@ -1124,20 +1125,30 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 .bck-box.bck-box-1 {
-    margin-top: inherit;
-    min-height: inherit;
+    /* margin-top: inherit; */
+    /* min-height: inherit; */
     position: relative;
-    background: url(images/rich_english_U7_pg64_img_0001.png) repeat-y;
-    padding: 60px 18px 91px 83px;
-    background-size: cover;
-    top: -21px;
-    left: -97px;
-    width: 125.5%
+    BORDER: 3px solid #ec6f59;
+    border-radius: 20px 80px 20px 80px;
+    border-left: 146px solid #ec6f59;
+    padding: 30px;
 }
 
-.bck-box.bck-box-1:after,.bck-box.bck-box-1:before {
+.bck-box.bck-box-1:after {
     display: none;
     content: none
+}
+
+.bck-box.bck-box-1:before {
+background-image: url(images/icono_caja_01.png);
+    content: " ";
+    position: absolute;
+    left: -42px;
+    z-index: 100;
+    padding: 70px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
 }
 
 .bck-box.bck-box-1 .bck-content {
