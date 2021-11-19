@@ -2597,6 +2597,13 @@ table td.bck-td-10 {
     color: #78AA42;
 }
 
+.activitytag_grammar #actividad .content .cke_contents .bck-ul-1 li:before,
+.activitytag_grammar #actividad .content .texto_curso ul.bck-ul-1 li:before,
+.activitytag_grammar #actividad .popover-content ul.bck-ul-1 li:before,
+.activitytag_grammar #actividad .content .workspace ul li ul.bck-ul-1 li:before {
+    background-color: #D2E0BD;
+}
+
 .activitytag_grammar .bck-box.bck-box-2 .bck-content {
     border: 1px solid #78AA42;
 }
