@@ -516,6 +516,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     font-size: 2.4rem;
     text-align: left;
     /*font-family: Conv_FuturaStd-Book*/
+    padding-top: 10px;
 }
 
 .bck-title-3 {
@@ -2350,7 +2351,8 @@ table td.bck-td-10 {
     background-color: #1098be
 }
 
-.btn-primary.active,.btn-primary.disabled:focus,.btn-primary.disabled:hover,.btn-primary:active,.btn-primary:focus,.btn-primary:hover,.open .dropdown-toggle.btn-primary {
+.btn-primary.active,.btn-primary.disabled:focus,.btn-primary.disabled:hover,.btn-primary:active,.btn-primary:focus,.btn-primary:hover,
+.open .dropdown-toggle.btn-primary {
     background-color: #0091ba
 }
 
@@ -2372,11 +2374,14 @@ table td.bck-td-10 {
     margin-bottom: 0
 }
 
-.bck-dropdown-2 .bck-dropdown-titulo,.bck-dropdown .bck-dropdown-titulo {
+/*desplegables*/
+
+/*.bck-dropdown-2 .bck-dropdown-titulo,
+.bck-dropdown .bck-dropdown-titulo {
     color: inherit;
     font-size: 2.5rem;
     padding-left: 10px
-}
+}*/
 
 .bck-dropdown .bck-dropdown-icon {
     color: #000
@@ -2395,18 +2400,35 @@ table td.bck-td-10 {
 }
 
 .bck-dropdown.bck-dropdown-1 {
-    background-color: #00adee;
-    border: 1px solid #ddd;
+    background-color: #ffffff;
+    border: 3px solid #ec6f59;
     margin-top: 10px;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    border-radius: 5px
+    border-radius: 30px 10px 37px 10px;
+    -webkit-border-radius: 30px 10px 37px 10px;
+    -moz-border-radius: 30px 10px 37px 10px;
+
+}
+
+.bck-dropdown-1 .bck-dropdown-titulo {
+    font-size: 2.5rem;
+    font-weight: 600;
+    padding-left: 10px;
+    color: #ec6f59;
 }
 
 .bck-dropdown-1 .bck-dropdown-icon {
-    background-color: #00adee;
+    background-color: #fff;
     width: 25px;
-    height: 10px
+    height: 10px;
+    color: #ec6f59;
+}
+
+.bck-dropdown-1 .bck-dropdown-content {
+    background-color: #fff;
+    border: none;
+    padding-left: 17px;
+    border-radius: 30px 10px 37px 10px;
+    max-height: 800%;
 }
 
 .bck-dropdown-2 .bck-dropdown-button {
@@ -2465,7 +2487,6 @@ table td.bck-td-10 {
 }
 
 .bck-dropdown-content {
-    background-color: #f1f1f1!important;
     max-height: none
 }
 
@@ -2534,6 +2555,10 @@ table td.bck-td-10 {
 
 .activitytag_vocabulary .bck-title-2 {
     color: #208FCF;
+}
+
+.activitytag_vocabulary .item-container .icon-hablar:before {
+    background-image: url(images/icono_hablar_azul.png);
 }
 
 /*unittag*/
