@@ -2543,6 +2543,22 @@ table td.bck-td-10 {
     color: #78AA42;
 }
 
+.activitytag_grammar .bck-box.bck-box-2 .bck-content {
+    border: 1px solid #78AA42;
+}
+
+.activitytag_grammar.bck-box.bck-box-2:after {
+    background-image: url(images/icono_caja_02verde.png);
+}
+
+.activitytag_grammar .bck-box.bck-box-3 .bck-content {
+    border: 1px solid #78AA42;
+}
+
+.activitytag_grammar .bck-box.bck-box-3:after {
+    background-image: url(images/icono_caja_02verdederecha.png);
+}
+
 /*unittag*/
 
 #list-units .unittag_activities_highAchivers {
