@@ -2515,9 +2515,16 @@ table td.bck-td-10 {
     background-image: url(images/icono_hablar_azul.png);
 }
 
+.activitytag_vocabulary #actividad .content .cke_contents .bck-ol-1 li:before, 
+.activitytag_vocabulary #actividad .content .texto_curso .bck-ol-1 li:before, 
+.activitytag_vocabulary #actividad .content .workspace ul li .bck-ol-1 li:before, 
+.activitytag_vocabulary #actividad .popover-content .bck-ol-1 li:before {
+    color: #208FCF;
+}
+
 /*activitytag_grammar*/
 .activitytag_grammar .bck-title-1 {
-    color: #208FCF;
+    color: #78AA42;
     border: 2px solid #78AA42 !important;
 }
 
@@ -2527,6 +2534,13 @@ table td.bck-td-10 {
 
 .activitytag_grammar .item-container .icon-hablar:before {
     background-image: url(images/icono_hablar_verde.png);
+}
+
+.activitytag_grammar #actividad .content .cke_contents .bck-ol-1 li:before, 
+.activitytag_grammar #actividad .content .texto_curso .bck-ol-1 li:before, 
+.activitytag_grammar #actividad .content .workspace ul li .bck-ol-1 li:before, 
+.activitytag_grammar #actividad .popover-content .bck-ol-1 li:before {
+    color: #78AA42;
 }
 
 /*unittag*/
