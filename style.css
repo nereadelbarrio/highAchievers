@@ -2547,7 +2547,7 @@ table td.bck-td-10 {
     border: 1px solid #78AA42;
 }
 
-.activitytag_grammar.bck-box.bck-box-2:after {
+.activitytag_grammar .bck-box.bck-box-2:after {
     background-image: url(images/icono_caja_02verde.png);
 }
 
