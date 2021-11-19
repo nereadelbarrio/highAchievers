@@ -2620,6 +2620,54 @@ table td.bck-td-10 {
     background-image: url(images/icono_caja_02verdederecha.png);
 }
 
+/*activitytag_listening*/
+.activitytag_listening .bck-title-1 {
+    color: #E79F25;
+    border: 2px solid #E79F25 !important;
+}
+
+.activitytag_listening .bck-title-2 {
+    color: #E79F25;
+}
+
+.activitytag_listening .item-container .icon-hablar:before {
+    background-image: url(images/icono_hablar_naranja.PNG);
+}
+
+.activitytag_listening #actividad .player.audio {
+    background-image: url(images/icono_audio_naranja.PNG);
+}
+
+.activitytag_listening #actividad .content .cke_contents .bck-ol-1 li:before, 
+.activitytag_listening #actividad .content .texto_curso .bck-ol-1 li:before, 
+.activitytag_listening #actividad .content .workspace ul li .bck-ol-1 li:before, 
+.activitytag_listening #actividad .popover-content .bck-ol-1 li:before {
+    color: #E79F25;
+}
+
+.activitytag_listening #actividad .content .cke_contents .bck-ul-1 li:before,
+.activitytag_listening #actividad .content .texto_curso ul.bck-ul-1 li:before,
+.activitytag_listening #actividad .popover-content ul.bck-ul-1 li:before,
+.activitytag_listening #actividad .content .workspace ul li ul.bck-ul-1 li:before {
+    backgrouactivitytag_listeningnd-color: #D2E0BD;
+}
+
+.activitytag_listening .bck-box.bck-box-2 .bck-content {
+    border: 1px solid #E79F25;
+}
+
+.activitytag_listening .bck-box.bck-box-2:after {
+    background-image: url(images/icono_caja_02verde.png);
+}
+
+.activitytag_listening .bck-box.bck-box-3 .bck-content {
+    border: 1px solid #E79F25;
+}
+
+.activitytag_listening .bck-box.bck-box-3:after {
+    background-image: url(images/icono_caja_02verdederecha.png);
+}
+
 /*unittag*/
 
 #list-units .unittag_activities_highAchivers {
@@ -2632,564 +2680,7 @@ table td.bck-td-10 {
     background-color: #0ca1ea!important
 }
 
-/*coursetag*/
-.coursetag_highAchivers_2 .bck-title-2 {
-    color: #80539d
-}
 
-.coursetag_highAchivers_2 .bck-title-3 {
-    color: #80539d;
-    background-color: #e4dcee
-}
-
-.coursetag_highAchivers_2 .bck-title-12 {
-    color: #8bbf36
-}
-
-.coursetag_highAchivers_2 .bck-title-13 {
-    color: #fff;
-    background-color: #926cad;
-    font-size: 2.3rem;
-    font-family: Conv_FuturaStd-Medium;
-    font-weight: 500;
-    position: relative;
-    left: 0;
-    width: fit-content;
-    border-radius: 50px;
-    padding: 10px;
-    font-weight: 700
-}
-
-.coursetag_highAchivers_2 #actividad .content .cke_contents ol.bck-ol-2 li:before,.coursetag_highAchivers_2 #actividad .content .texto_curso .bck-ul-4 li,.coursetag_highAchivers_2 #actividad .content .texto_curso ol.bck-ol-2 li:before,.coursetag_highAchivers_2 #actividad .content .workspace ul li .bck-ul-4 li,.coursetag_highAchivers_2 #actividad .content .workspace ul li ol.bck-ol-2 li:before,.coursetag_highAchivers_2 #actividad .popover-background.shown .popover-content .bck-ul-4 li,.coursetag_highAchivers_2 #actividad .popover-content ol.bck-ol-2 li:before {
-    color: #80539d
-}
-
-.coursetag_highAchivers_2 #actividad .content .texto_curso .bck-ul-4 li:before,.coursetag_highAchivers_2 #actividad .content .workspace ul li .bck-ul-4 li:before,.coursetag_highAchivers_2 #actividad .popover-background.shown .popover-content .bck-ul-4 li:before {
-    background-color: #80539d
-}
-
-.coursetag_highAchivers_2 .bck-box.bck-box-1 {
-    position: relative;
-    background: url(images/img_inicio_morado.png) repeat-y;
-    padding: 60px 18px 91px 83px;
-    background-size: cover;
-    top: -21px;
-    left: -97px;
-    width: 125.5%
-}
-
-.coursetag_highAchivers_2 .bck-box.bck-box-3 {
-    background: #9774b1
-}
-
-.coursetag_highAchivers_2 .bck-box.bck-box-3 .bck-content {
-    background-color: #9774b1
-}
-
-.coursetag_highAchivers_2 .bck-box.bck-box-3 .bck-title {
-    color: #80539d
-}
-
-.coursetag_highAchivers_2 .bck-box.bck-box-6 .bck-content {
-    background-color: #e5deed
-}
-
-.coursetag_highAchivers_2 .bck-box.bck-box-7 .bck-content {
-    border: 3px dotted #8bbf36
-}
-
-.coursetag_highAchivers_2 .bck-box.bck-box-17 .bck-content {
-    border: 3px dotted #6d307e
-}
-
-.coursetag_highAchivers_2 .bck-box.bck-box-24 {
-    background: #82c44c
-}
-
-.coursetag_highAchivers_2 .bck-box.bck-box-24 .bck-content {
-    background-color: #82c44c
-}
-
-.coursetag_highAchivers_2 .bck-box.bck-box-26 {
-    border: 3px solid #9774b1
-}
-
-.coursetag_highAchivers_2 .bck-box.bck-box-26 .bck-title {
-    background-color: #9774b1
-}
-
-.coursetag_highAchivers_2 .bck-box.bck-box-32 {
-    border: 2px solid #80539d;
-    box-shadow: 9px 10px 0 -6px #80539d
-}
-
-.coursetag_highAchivers_2 .bck-box.bck-box-32 .bck-content {
-    background-color: #fff;
-    padding: 8px 8px 8px 19px;
-    box-shadow: 9px 10px 0 -6px #80539d
-}
-
-.coursetag_highAchivers_2 .bck-enfasis-1 {
-    color: #926cad
-}
-
-.coursetag_highAchivers_2 .bck-enfasis-7 {
-    color: #80539d;
-    background-color: #e4dcee
-}
-
-.coursetag_highAchivers_2 .item-container .icon-lapiz:before {
-    background-image: url(images/icono_lapiz_morado.png)
-}
-
-.coursetag_highAchivers_2 .item-container .icon-libro:before {
-    background-image: url(images/icono_libro_morado.png)
-}
-
-.coursetag_highAchivers_2 #actividad .player.audio,.coursetag_highAchivers_2 .item-container .icon-musica:before {
-    background-image: url(images/icono_audio_morado.png)
-}
-
-.coursetag_highAchivers_2 .item-container .icon-hablar:before {
-    background-image: url(images/icono_pronunt_morado.png)
-}
-
-.coursetag_highAchivers_2 .item-container .icon-fast:before {
-    background-image: url(images/icon_fast_morado.png)
-}
-
-.coursetag_highAchivers_2 .bck-dropdown-3-icon>.fa {
-    border: 3px solid #6f3181!important
-}
-
-.coursetag_highAchivers_2 .bck-dropdown-3 .bck-dropdown-titulo,.coursetag_highAchivers_2 .bck-dropdown-3 .fa-chevron-down:before,.coursetag_highAchivers_2 .bck-dropdown-3 .fa-chevron-up:before {
-    color: #6f3181
-}
-
-.coursetag_highAchivers_2 #actividad .workspace.clasificar .clasificar_lista .classify-item {
-    border-color: rgba(162,122,173,.6313725490196078);
-    padding: 6px 6px 10px
-}
-
-.coursetag_highAchivers_2 #actividad .workspace.clasificar .clasificar_conjuntos .conjunto .group-box {
-    border: 3px solid rgba(162,122,173,.6313725490196078);
-    padding-top: 15px
-}
-
-.coursetag_highAchivers_2 #actividad .workspace.clasificar .clasificar_conjuntos .row .col-centered {
-    margin-top: 15px
-}
-
-.coursetag_highAchivers_2 #indice .units ul li.active:not(.disabled),.coursetag_highAchivers_2 #indice .units ul li:hover:not(.disabled) {
-    background: #6f3181!important
-}
-
-.coursetag_highAchivers_2 #indice .units ul li:focus:not(.disabled) {
-    background: #7ba21b!important
-}
-
-.coursetag_highAchivers_2 #book-index #indice .unit-content .actividades .item.active,
-.coursetag_highAchivers_2 #book-index #indice .unit-content .actividades .item.current,.coursetag_highAchivers_2 #indice .units ul li.hover:not(.disabled),.coursetag_highAchivers_2 #indice .units ul li:hover:not(.disabled),
-.coursetag_highAchivers_2 body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover,
-.coursetag_highAchivers_2 body:not(.isTablet) #indice .units ul li:hover:not(.disabled) {
-    background: #6f3181!important
-}
-
-.coursetag_highAchivers_2 #indice .unit-content .actividades .item.active,.coursetag_highAchivers_2 #indice .unit-content .actividades .item.current,.coursetag_highAchivers_2 #indice .unit-content .actividades .item:active {
-    border-bottom: 1px solid #e5e5e5
-}
-
-.coursetag_highAchivers_2 #book-index #indice .unit-content .actividades .item:hover,.coursetag_highAchivers_2 #indice .unit-content .actividades .item.active,.coursetag_highAchivers_2 #indice .unit-content .actividades .item.current {
-    border-bottom: 2px solid #3e1b49!important
-}
-
-.coursetag_highAchivers_2 #indice .unit-content .actividades .item.active,.coursetag_highAchivers_2 #indice .unit-content .actividades .item.current,.coursetag_highAchivers_2 #indice .unit-content .actividades .item:focus {
-    border-bottom: 2px solid #3e1b49
-}
-
-.coursetag_highAchivers_2 #book-index .col-main {
-    background: #6f3181
-}
-
-.coursetag_highAchivers_2 #indice .units ul li.active a,.coursetag_highAchivers_2 #indice .units ul li:not(.disabled) a:hover {
-    background: #6f3181!important
-}
-
-.coursetag_highAchivers_2 #indice .actividades a:active,.coursetag_highAchivers_2 #indice .actividades a:focus,.coursetag_highAchivers_2 #indice .actividades a:hover {
-    color: #6f3181
-}
-
-.coursetag_highAchivers_2 .btn-danger,.coursetag_highAchivers_2 .btn-danger[disabled],.coursetag_highAchivers_2 .btn-primary,.coursetag_highAchivers_2 .btn-primary.disabled,.coursetag_highAchivers_2 .btn-primary.disabled:focus {
-    background: #6f3181
-}
-
-.coursetag_highAchivers_2 #actividad .content .review .attemps span {
-    background-color: #6f3181
-}
-
-.coursetag_highAchivers_3 .bck-title-2 {
-    color: #8bbf36
-}
-
-.coursetag_highAchivers_3 .bck-title-3 {
-    color: #8bbf36;
-    background-color: #ebf3dc
-}
-
-.coursetag_highAchivers_3 .bck-title-12 {
-    color: #8bbf36
-}
-
-.coursetag_highAchivers_3 .bck-title-13 {
-    color: #fff;
-    background-color: #a0c857;
-    font-size: 2.3rem;
-    font-family: Conv_FuturaStd-Medium;
-    font-weight: 500;
-    position: relative;
-    left: 0;
-    width: fit-content;
-    border-radius: 50px;
-    padding: 10px;
-    font-weight: 700
-}
-
-.coursetag_highAchivers_3 #actividad .content .cke_contents ol.bck-ol-2 li:before,.coursetag_highAchivers_3 #actividad .content .texto_curso .bck-ul-4 li,.coursetag_highAchivers_3 #actividad .content .texto_curso ol.bck-ol-2 li:before,.coursetag_highAchivers_3 #actividad .content .workspace ul li .bck-ul-4 li,.coursetag_highAchivers_3 #actividad .content .workspace ul li ol.bck-ol-2 li:before,.coursetag_highAchivers_3 #actividad .popover-background.shown .popover-content .bck-ul-4 li,.coursetag_highAchivers_3 #actividad .popover-content ol.bck-ol-2 li:before {
-    color: #8bbf36
-}
-
-.coursetag_highAchivers_3 #actividad .content .texto_curso .bck-ul-4 li:before,.coursetag_highAchivers_3 #actividad .content .workspace ul li .bck-ul-4 li:before,.coursetag_highAchivers_3 #actividad .popover-background.shown .popover-content .bck-ul-4 li:before {
-    background-color: #8bbf36
-}
-
-.coursetag_highAchivers_3 .bck-box.bck-box-1 {
-    position: relative;
-    background: url(images/img_inicio_verde.png) repeat-y;
-    padding: 60px 18px 91px 83px;
-    background-size: cover;
-    top: -21px;
-    left: -97px;
-    width: 125.5%
-}
-
-.coursetag_highAchivers_3 .bck-box.bck-box-3 {
-    background: #a7cb62
-}
-
-.coursetag_highAchivers_3 .bck-box.bck-box-3 .bck-content {
-    background-color: #a7cb62
-}
-
-.coursetag_highAchivers_3 .bck-box.bck-box-3 .bck-title {
-    color: #a7cb62
-}
-
-.coursetag_highAchivers_3 .bck-box.bck-box-6 .bck-content {
-    background-color: #e0ecc9!important
-}
-
-.coursetag_highAchivers_3 .bck-box.bck-box-17 .bck-content {
-    border: 3px dotted #8bbf36
-}
-
-.coursetag_highAchivers_3 .bck-box.bck-box-24 {
-    background: #82c44c
-}
-
-.coursetag_highAchivers_3 .bck-box.bck-box-24 .bck-content {
-    background-color: #82c44c
-}
-
-.coursetag_highAchivers_3 .bck-box.bck-box-7 .bck-content {
-    border: 3px dotted #8bbf36
-}
-
-.coursetag_highAchivers_3 .bck-box.bck-box-26 {
-    border: 3px solid #8bbf36
-}
-
-.coursetag_highAchivers_3 .bck-box.bck-box-26 .bck-title {
-    background-color: #8bbf36
-}
-
-.coursetag_highAchivers_3 .bck-enfasis-1 {
-    color: #a0c857
-}
-
-.coursetag_highAchivers_3 .bck-enfasis-7 {
-    color: #8bbf36;
-    background-color: #ebf3dc
-}
-
-.coursetag_highAchivers_3 .item-container .icon-lapiz:before {
-    background-image: url(images/icono_lapiz_verde.png)
-}
-
-.coursetag_highAchivers_3 #actividad .player.audio {
-    background-image: url(images/icono_audio_verde.png)
-}
-
-.coursetag_highAchivers_3 .item-container .icon-hablar:before {
-    background-image: url(images/icono_pronunt_verde.png)
-}
-
-.coursetag_highAchivers_3 .item-container .icon-fast:before {
-    background-image: url(images/icon_fast_verde.png)
-}
-
-.coursetag_highAchivers_3 .icon-lapiz:before {
-    background-image: url(images/icono_lapiz_verde.png)
-}
-
-.coursetag_highAchivers_3 .bck-dropdown-3-icon>.fa {
-    border: 3px solid #8bbf36
-}
-
-.coursetag_highAchivers_3 .bck-dropdown-3 .bck-dropdown-titulo,.coursetag_highAchivers_3 .bck-dropdown-3 .fa-chevron-down:before,.coursetag_highAchivers_3 .bck-dropdown-3 .fa-chevron-up:before {
-    color: #8bbf36
-}
-
-.coursetag_highAchivers_3 #book-index #indice .unit-content .actividades .item.active,.coursetag_highAchivers_3 #book-index #indice .unit-content .actividades .item.current,.coursetag_highAchivers_3 #indice .units ul li.active:not(.disabled),.coursetag_highAchivers_3 #indice .units ul li.hover:not(.disabled),.coursetag_highAchivers_3 #indice .units ul li:focus:not(.disabled),.coursetag_highAchivers_3 #indice .units ul li:hover:not(.disabled),.coursetag_highAchivers_3 body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover,.coursetag_highAchivers_3 body:not(.isTablet) #indice .units ul li:hover:not(.disabled) {
-    background: #8ebb1e!important
-}
-
-.coursetag_highAchivers_3 #indice .unit-content .actividades .item.active,.coursetag_highAchivers_3 #indice .unit-content .actividades .item.current,.coursetag_highAchivers_3 #indice .unit-content .actividades .item:active {
-    border-bottom: 2px solid #597514
-}
-
-.coursetag_highAchivers_3 #book-index #indice .unit-content .actividades .item:hover,.coursetag_highAchivers_3 #indice .unit-content .actividades .item.active,.coursetag_highAchivers_3 #indice .unit-content .actividades .item.current {
-    border-bottom: 2px solid #597514!important
-}
-
-.coursetag_highAchivers_3 #indice .unit-content .actividades .item.active,.coursetag_highAchivers_3 #indice .unit-content .actividades .item.current,.coursetag_highAchivers_3 #indice .unit-content .actividades .item:focus {
-    border-bottom: 2px solid #597514
-}
-
-.coursetag_highAchivers_3 #book-index .col-main {
-    background: #8ebb1e
-}
-
-.coursetag_highAchivers_3 #indice .units ul li.active a,.coursetag_highAchivers_3 #indice .units ul li:not(.disabled) a:hover {
-    background: #8ebb1e!important
-}
-
-.coursetag_highAchivers_3 #book-index #indice .units ul li.active a,.coursetag_highAchivers_3 body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover {
-    background: #8ebb1e
-}
-
-.coursetag_highAchivers_3 #indice .actividades a:active,.coursetag_highAchivers_3 #indice .actividades a:focus,.coursetag_highAchivers_3 #indice .actividades a:hover {
-    color: #8bbf36
-}
-
-.coursetag_highAchivers_3 .btn-danger,.coursetag_highAchivers_3 .btn-danger[disabled],.coursetag_highAchivers_3 .btn-primary,.coursetag_highAchivers_3 .btn-primary.disabled,.coursetag_highAchivers_3 .btn-primary.disabled:focus {
-    background: #8bbf36
-}
-
-.coursetag_highAchivers_3 #actividad .content .review .attemps span {
-    background-color: #8bbf36
-}
-
-.coursetag_highAchivers_3 #actividad .workspace.clasificar .clasificar_lista .classify-item {
-    border-color: rgba(139,191,54,.5294117647058824);
-    padding: 6px 6px 10px
-}
-
-.coursetag_highAchivers_3 #actividad .workspace.clasificar .clasificar_conjuntos .conjunto .group-box {
-    border: 3px solid rgba(139,191,54,.5294117647058824);
-    padding-top: 15px
-}
-
-.coursetag_highAchivers_3 #actividad .workspace.clasificar .clasificar_conjuntos .row .col-centered {
-    margin-top: 15px
-}
-
-.coursetag_highAchivers_4 .bck-title-2 {
-    color: #5a75b8
-}
-
-.coursetag_highAchivers_4 .bck-title-3 {
-    color: #5a75b8;
-    background-color: #e0e2f3
-}
-
-.coursetag_highAchivers_4 .bck-title-12 {
-    color: #7588c3
-}
-
-.coursetag_highAchivers_4 .bck-title-13 {
-    color: #fff;
-    background-color: #7588c3;
-    font-size: 2.3rem;
-    font-family: Conv_FuturaStd-Medium;
-    font-weight: 500;
-    position: relative;
-    left: 0;
-    width: fit-content;
-    border-radius: 50px;
-    padding: 10px;
-    font-weight: 700
-}
-
-.coursetag_highAchivers_4 #actividad .content .cke_contents ol.bck-ol-2 li:before,.coursetag_highAchivers_4 #actividad .content .texto_curso ol.bck-ol-2 li:before,.coursetag_highAchivers_4 #actividad .content .workspace ul li ol.bck-ol-2 li:before,.coursetag_highAchivers_4 #actividad .popover-content ol.bck-ol-2 li:before {
-    color: #5a75b8
-}
-
-.coursetag_highAchivers_4 #actividad .content .texto_curso .bck-ul-4 li,.coursetag_highAchivers_4 #actividad .content .workspace ul li .bck-ul-4 li,.coursetag_highAchivers_4 #actividad .popover-background.shown .popover-content .bck-ul-4 li {
-    color: #7588c3
-}
-
-.coursetag_highAchivers_4 #actividad .content .texto_curso .bck-ul-4 li:before,.coursetag_highAchivers_4 #actividad .content .workspace ul li .bck-ul-4 li:before,.coursetag_highAchivers_4 #actividad .popover-background.shown .popover-content .bck-ul-4 li:before {
-    background-color: #7588c3
-}
-
-.coursetag_highAchivers_4 .bck-box.bck-box-1 {
-    position: relative;
-    background: url(images/img_inicio_azul.png) repeat-y;
-    padding: 60px 18px 91px 83px;
-    background-size: cover;
-    top: -21px;
-    left: -97px;
-    width: 125.5%
-}
-
-.coursetag_highAchivers_4 .bck-box.bck-box-3 {
-    background: #7c8fc7
-}
-
-.coursetag_highAchivers_4 .bck-box.bck-box-3 .bck-content {
-    background-color: #7c8fc7
-}
-
-.coursetag_highAchivers_4 .bck-box.bck-box-3 .bck-title {
-    color: #7c8fc7
-}
-
-.coursetag_highAchivers_4 .bck-box.bck-box-6 .bck-content {
-    background-color: #dbdfee
-}
-
-.coursetag_highAchivers_4 .bck-box.bck-box-7 .bck-content {
-    border: 3px dotted #8bbf36
-}
-
-.coursetag_highAchivers_4 .bck-box.bck-box-17 .bck-content {
-    border: 3px dotted #214b8e
-}
-
-.coursetag_highAchivers_4 .bck-box.bck-box-24 {
-    background: #82c44c
-}
-
-.coursetag_highAchivers_4 .bck-box.bck-box-24 .bck-content {
-    background-color: #82c44c
-}
-
-.coursetag_highAchivers_4 .bck-box.bck-box-26 {
-    border: 3px solid #5a75b8
-}
-
-.coursetag_highAchivers_4 .bck-box.bck-box-26 .bck-title {
-    background-color: #5a75b8
-}
-
-.coursetag_highAchivers_4 .bck-box.bck-box-32 {
-    border: 2px solid #5a75b8;
-    box-shadow: 9px 10px 0 -6px #5a75b8
-}
-
-.coursetag_highAchivers_4 .bck-box.bck-box-32 .bck-content {
-    background-color: #fff;
-    padding: 8px 8px 8px 19px;
-    box-shadow: 9px 10px 0 -6px #5a75b8
-}
-
-.coursetag_highAchivers_4 .bck-enfasis-1 {
-    color: #7588c3
-}
-
-.coursetag_highAchivers_4 .bck-enfasis-7 {
-    color: #5a75b8;
-    background-color: #e0e2f3
-}
-
-.coursetag_highAchivers_4 .item-container .icon-lapiz:before {
-    background-image: url(images/icono_lapiz_azul.png)
-}
-
-.coursetag_highAchivers_4 .item-container .icon-libro:before {
-    background-image: url(images/icono_libro_azul.png)
-}
-
-.coursetag_highAchivers_4 #actividad .player.audio,
-.coursetag_highAchivers_4 .item-container .icon-musica:before {
-    background-image: url(images/icono_audio_azul.png)
-}
-
-.coursetag_highAchivers_4 .item-container .icon-hablar:before {
-    background-image: url(images/icono_pronunt_azul.png)
-}
-
-.coursetag_highAchivers_4 .item-container .icon-fast:before {
-    background-image: url(images/icon_fast_azul.png)
-}
-
-.coursetag_highAchivers_4 .bck-dropdown-3-icon>.fa {
-    border: 3px solid #7689c3
-}
-
-.coursetag_highAchivers_4 .bck-dropdown-3 .bck-dropdown-titulo,.coursetag_highAchivers_4 .bck-dropdown-3 .fa-chevron-down:before,.coursetag_highAchivers_4 .bck-dropdown-3 .fa-chevron-up:before {
-    color: #7588c3
-}
-
-.coursetag_highAchivers_4 #book-index #indice .unit-content .actividades .item.active,.coursetag_highAchivers_4 #book-index #indice .unit-content .actividades .item.current,.coursetag_highAchivers_4 #indice .units ul li.active:not(.disabled),.coursetag_highAchivers_4 #indice .units ul li.hover:not(.disabled),.coursetag_highAchivers_4 #indice .units ul li:focus:not(.disabled),.coursetag_highAchivers_4 #indice .units ul li:hover:not(.disabled),.coursetag_highAchivers_4 body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover,.coursetag_highAchivers_4 body:not(.isTablet) #indice .units ul li:hover:not(.disabled) {
-    background: #7588c3!important
-}
-
-.coursetag_highAchivers_4 #indice .unit-content .actividades .item.active,.coursetag_highAchivers_4 #indice .unit-content .actividades .item.current,.coursetag_highAchivers_4 #indice .unit-content .actividades .item:active {
-    border-bottom: 1px solid #434e6f
-}
-
-.coursetag_highAchivers_4 #book-index #indice .unit-content .actividades .item:hover,.coursetag_highAchivers_4 #indice .unit-content .actividades .item.active,.coursetag_highAchivers_4 #indice .unit-content .actividades .item.current {
-    border-bottom: 2px solid #434e6f!important
-}
-
-.coursetag_highAchivers_4 #indice .unit-content .actividades .item.active,.coursetag_highAchivers_4 #indice .unit-content .actividades .item.current,.coursetag_highAchivers_4 #indice .unit-content .actividades .item:focus {
-    border-bottom: 2px solid #434e6f
-}
-
-.coursetag_highAchivers_4 #book-index .col-main {
-    background: #7588c3
-}
-
-.coursetag_highAchivers_4 #indice .units ul li.active a,.coursetag_highAchivers_4 #indice .units ul li:not(.disabled) a:hover {
-    background: #7588c3!important
-}
-
-.coursetag_highAchivers_4 #indice .actividades a:active,.coursetag_highAchivers_4 #indice .actividades a:focus,.coursetag_highAchivers_4 #indice .actividades a:hover {
-    color: #5a75b8
-}
-
-.coursetag_highAchivers_4 .btn-danger,.coursetag_highAchivers_4 .btn-danger[disabled],.coursetag_highAchivers_4 .btn-primary,.coursetag_highAchivers_4 .btn-primary.disabled,.coursetag_highAchivers_4 .btn-primary.disabled:focus {
-    background: #5a75b8
-}
-
-.coursetag_highAchivers_4 #actividad .content .review .attemps span {
-    background-color: #5a75b8
-}
-
-.coursetag_highAchivers_4 #actividad .workspace.clasificar .clasificar_lista .classify-item {
-    border-color: rgba(90,117,184,.5294117647058824);
-    padding: 6px 6px 10px
-}
-
-.coursetag_highAchivers_4 #actividad .workspace.clasificar .clasificar_conjuntos .conjunto .group-box {
-    border: 3px solid rgba(90,117,184,.5294117647058824);
-    padding-top: 15px
-}
-
-.coursetag_highAchivers_4 #actividad .workspace.clasificar .clasificar_conjuntos .row .col-centered {
-    margin-top: 15px
-}
 
 @media screen and (max-width: 375px) {
     #actividad .box p {
