@@ -54,8 +54,8 @@
 										
 				{ name: 'Caja 1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-1' } },
 				{ name: 'Caja 2', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-2' } },
-				{ name: 'CajaVideo', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-3' } },
-				{ name: 'Caja 3', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-4' } },
+				{ name: 'Caja 3', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-3' } },
+				{ name: 'Caja 4', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-4' } },
 				{ name: 'Caja WordPool', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-6' } },
 				{ name: 'Caja Punteada', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-7' } },
 				{ name: 'Caja ListeningsTools', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-8' } },
