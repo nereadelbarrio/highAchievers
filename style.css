@@ -1130,7 +1130,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     border: 1px solid #ec6f59;
     border-radius: 30px 30px 30px 30px;
     padding: 8px 18px 8px 19px;
-    width: fit-content;
+    width: auto;
 }
 
 .bck-box.bck-box-2:after {
@@ -1162,7 +1162,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     border: 1px solid #ec6f59;
     border-radius: 30px 30px 30px 30px;
     padding: 8px 18px 8px 19px;
-    width: fit-content;
+    width: auto;
 }
 
 .bck-box.bck-box-3:after {
