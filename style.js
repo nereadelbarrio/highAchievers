@@ -13,8 +13,8 @@
 		ckEditorStyles: {
 			name: 'highAchivers',
 			styles: [
-				{ name: 'Título 1', element: 'h2', attributes: { 'class': 'bck-title-1'} },
-				{ name: 'Título Verde', element: 'h2', attributes: { 'class': 'bck-title-2'} },
+				{ name: 'Título 01', element: 'h2', attributes: { 'class': 'bck-title-1'} },
+				{ name: 'Título 02', element: 'h2', attributes: { 'class': 'bck-title-2'} },
 				{ name: 'Título highAchivers', element: 'h2', attributes: { 'class': 'bck-title-3'} },
 				{ name: 'Título 4 Naranja', element: 'h2', attributes: { 'class': 'bck-title-4'} },
 				{ name: 'Título Project', element: 'h2', attributes: { 'class': 'bck-title-5'} },
@@ -41,10 +41,7 @@
 				{ name: 'Énfasis verde', element: 'span', attributes: { 'class': 'bck-enfasis-11'} },
 
 				{ name: 'Lista 01', element: 'ul', attributes: { 'class': 'bck-ul-1'} },
-				{ name: 'Lista DesNaranja', element: 'ul', attributes: { 'class': 'bck-ul-2'} },
-				{ name: 'Lista Desordenada', element: 'ul', attributes: { 'class': 'bck-ul-3'} },
-				{ name: 'Lista Desordenada 4', element: 'ul', attributes: { 'class': 'bck-ul-4'} },
-				{ name: 'Lista Desordenada 5', element: 'ul', attributes: { 'class': 'bck-ul-5'} },
+				{ name: 'Lista 02', element: 'ul', attributes: { 'class': 'bck-ul-2'} },
 							
 				{ name: 'Lista 01', element: 'ol', attributes: { 'class': 'bck-ol-1' } },
 				{ name: 'Lista 02', element: 'ol', attributes: { 'class': 'bck-ol-2' } },
