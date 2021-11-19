@@ -730,28 +730,26 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     line-height: 1.8em!important
 }
 
-/*lista desordenadas*/
-
-.popover-template .popover-content ul li,
+/*LISTAS DESORDENADAS*/
 .texto_curso ul li {
-    padding-left: 42px
+    padding-left: 40px;
 }
 
-#actividad .popover-background.shown .popover-content>ul>li:before {
-    position: absolute
+.texto_curso ul li:before,
+.workspace ul li ul li:before,
+.cke_contents ul li:before,
+.preview ul li:before,
+.classify-item ul li:before,
+#actividad .workspace.multiple-choice .js-item ul li:before,
+#actividad .workspace.matching .box ul li:before,
+#actividad .workspace.ordenar .js-rank-item ul li:before {
+    content: "";
+    height: 6px;
+    width: 6px;
+    background-color: #333;
+    color: #333;
+    border-radius: 50%;
 }
-
-#actividad .popover-content ul li,
-#actividad .texto_curso li,
-#actividad .workspace ul li li {
-    position: relative;
-    margin-bottom: 10px
-}
-
-#actividad .content .texto_curso ul li:before {
-    left: inherit
-}
-
 
 /*lista desordenada por defecto, sin seleccionar estilo para la ul*/
 
@@ -781,12 +779,6 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     position: absolute;
     margin-top: .6em;
     margin-left: 6px;
-}
-
-#actividad .content .cke_contents .bck-ul-1,
-#actividad .content .texto_curso .bck-ul-1,
-#actividad .content .workspace ul li .bck-ul-1 {
-    list-style-type: none;
 }
 
 #actividad .content .cke_contents .bck-ul-1 li,
