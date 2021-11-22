@@ -743,24 +743,54 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 /*LISTAS DESORDENADAS*/
+/*lista desordenada*/
+
 .texto_curso ul li {
-    padding-left: 40px;
+    padding-left: 40px
 }
 
-.texto_curso ul li:before,
-.workspace ul li ul li:before,
-.cke_contents ul li:before,
-.preview ul li:before,
-.classify-item ul li:before,
-#actividad .workspace.multiple-choice .js-item ul li:before,
 #actividad .workspace.matching .box ul li:before,
-#actividad .workspace.ordenar .js-rank-item ul li:before {
+#actividad .workspace.multiple-choice .js-item ul li:before,
+#actividad .workspace.ordenar .js-rank-item ul li:before,
+.cke_contents ul li:before,
+.classify-item ul li:before,
+.preview ul li:before,
+.texto_curso ul li:before,
+.workspace ul li ul li:before {
+    content: "";
+    height: 6px;
+    width: 6px;
+    background-color: #333;
+    color: #333;
+    border-radius: 50%
+}
+
+#actividad .content .texto_curso ul li:before,
+#actividad .content .workspace ul li ul li:before {
+    content: "";
+    height: 9px;
+    width: 9px;
+    background-color: #fff;
+    color: #fff;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%
+}
+
+#actividad .content .texto_curso .bck-ul li:before,
+#actividad .content .texto_curso ul li:before,
+#actividad .content .workspace ul li .bck-ul li:before,
+#actividad .content .workspace ul li ul li:before,
+#actividad .popover-background.shown .popover-content>ul>li:before {
     content: "";
     height: 6px;
     width: 6px;
     background-color: #333;
     color: #333;
     border-radius: 50%;
+    position: absolute;
+    margin-top: .6em;
+    margin-left: 6px
 }
 
 /*lista desordenada por defecto, sin seleccionar estilo para la ul*/
@@ -2328,6 +2358,10 @@ table td.bck-td-10 {
     -moz-border-radius: 30px 10px 37px 10px;
     border-radius: 30px 10px 37px 10px;
     font-size: 14px;
+}
+
+.btn-group>.btn:first-child {
+    background-color: #007c39;
 }
 
 .btn-primary,.btn-primary.disabled {
