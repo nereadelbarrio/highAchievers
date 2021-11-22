@@ -40,17 +40,12 @@
 				{ name: 'Énfasis 10', element: 'span', attributes: { 'class': 'bck-enfasis-10'} },
 				{ name: 'Énfasis verde', element: 'span', attributes: { 'class': 'bck-enfasis-11'} },
 
-				{ name: 'Lista 01', element: 'ul', attributes: { 'class': 'bck-ul-1'} },
-				{ name: 'Lista 02', element: 'ul', attributes: { 'class': 'bck-ul-2'} },
+				{ name: 'Lista Desordenada 1', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-1' } },
+				{ name: 'Lista Desordenada 2', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-2' } },
 							
 				{ name: 'Lista 01', element: 'ol', attributes: { 'class': 'bck-ol-1' } },
 				{ name: 'Lista 02', element: 'ol', attributes: { 'class': 'bck-ol-2' } },
 				{ name: 'Lista 03', element: 'ol', attributes: { 'class': 'bck-ol-3' } },
-				{ name: 'Lista LetraMinus', element: 'ol', attributes: { 'class': 'bck-ol-4' } },
-				{ name: 'Lista LetraMinusMorada', element: 'ol', attributes: { 'class': 'bck-ol-5' } },
-				{ name: 'Lista Ordenada 6', element: 'ol', attributes: { 'class': 'bck-ol-6' } },
-				{ name: 'Lista Grid 6', element: 'ol', attributes: { 'class': 'bck-ol-7' } },
-				
 										
 				{ name: 'Caja 1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-1' } },
 				{ name: 'Caja 2', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-2' } },
