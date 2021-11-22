@@ -1313,10 +1313,20 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
         border-radius: 155px 55px 119px 67px/55px 125px 31px 111px;
 }
 
+.bck-box.bck-box-5 .bck-title p {
+    font-size: 2.8rem;
+}
+
+.bck-box.bck-box-5 .bck-title {
+    color: #e79f25;
+        border: none;
+}
+
 .bck-box.bck-box-5 .bck-content {
     color: #1F1A15;
     border-radius: 10px;
     padding: 6px 44px;
+    border-radius: 0;
 }
 
 .bck-box.bck-box-6 {
