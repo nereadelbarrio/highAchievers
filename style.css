@@ -1307,6 +1307,18 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     border-radius: 10px;
 }
 
+.bck-box.bck-box-5 {
+    padding: 7px 18px;
+        background-color: #F6EED9;
+        border-radius: 155px 55px 119px 67px/55px 125px 31px 111px;
+}
+
+.bck-box.bck-box-5 .bck-content {
+    color: #1F1A15;
+    border-radius: 10px;
+    padding: 6px 44px;
+}
+
 .bck-box.bck-box-6 {
     margin-top: 15px;
     border: none;
@@ -2139,7 +2151,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 .item-container .icon-musica:before {
-    background-image: url(images/rich_english_U7_pg64_img_0004.png);
+    background-image: url(images/icono_audio_naranja.PNG);
     margin-right: 10px
 }
 
@@ -2718,6 +2730,12 @@ table td.bck-td-10 {
 
 .activitytag_listening .bck-box.bck-box-3:after {
     background-image: url(images/icono_caja_02verdederecha.png);
+}
+
+
+.activitytag_listening .item-container .icon-musica:before {
+    background-image: url(images/icono_audio_naranja.PNG);
+    margin-right: 10px
 }
 
 /*unittag*/
