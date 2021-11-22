@@ -744,9 +744,21 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 /*LISTAS DESORDENADAS*/
 /*lista desordenada*/
+.popover-template .popover-content ul li,.texto_curso ul li {
+    padding-left: 42px
+}
 
-.texto_curso ul li {
-    padding-left: 40px
+#actividad .popover-background.shown .popover-content>ul>li:before {
+    position: absolute
+}
+
+#actividad .popover-content ul li,#actividad .texto_curso li,#actividad .workspace ul li li {
+    position: relative;
+    margin-bottom: 10px
+}
+
+#actividad .content .texto_curso ul li:before {
+    left: inherit
 }
 
 #actividad .workspace.matching .box ul li:before,
