@@ -2404,24 +2404,27 @@ table td.bck-td-10 {
     background-color: #ea5b0c
 }
 
-.btn-danger,.btn-danger[disabled] {
+.btn-danger, 
+.btn-danger[disabled] {
     color: #fff;
-    background-color: #3ab2dc;
-    border-color: transparent
+    background-color: #007C39;
+    border: 2px solid #007C39;
 }
 
 .btn-danger:hover {
-    color: #fff;
-    background-color: #0b9dcf;
-    border-color: transparent
+    color: #007C39;
+    background-color: #FFF;
+    border: #007C39 3PX SOLID;
+    FONT-WEIGHT: 700;
 }
 
-.btn-primary,.btn-primary.disabled,.btn-primary.disabled:focus {
-    background-color: #0cb9ea
+.btn-primary,.btn-primary.disabled,
+.btn-primary.disabled:focus {
+    background-color: #007C39;
 }
 
 .btn-primary[disabled],.btn-primary[disabled]:focus {
-    background-color: #1098be
+    background-color: #007C39;
 }
 
 .btn-primary.active,
@@ -2430,7 +2433,17 @@ table td.bck-td-10 {
 .btn-primary:active,.btn-primary:focus,
 .btn-primary:hover,
 .open .dropdown-toggle.btn-primary {
-    background-color: #0091ba
+    background-color: #007C39;
+}
+
+.btn-primary:not([disabled]):hover, 
+.btn-primary:not([disabled]):focus, 
+.btn-primary:not([disabled]):active,
+.btn-primary.active, .open .dropdown-toggle.btn-primary {
+    color: #fff;
+    background-color: #E79F25;
+    opacity: .9;
+    border-color: transparent;
 }
 
 #actividad .content .review .attemps span {
