@@ -846,7 +846,8 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     margin-bottom: 5px;
     font-size: 2rem;
     font-weight: 100;
-    margin-left: -2px
+    margin-left: -2px;
+    color: inherit;
 }
 
 
@@ -1279,30 +1280,31 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 .bck-box.bck-box-4 {
-    background-color: #e9510e;
+    background-color: #ffffff;
+    border: 3px solid #E79F25;
+    border-radius: 00px 50px 20px 50px;
     display: block;
     line-height: 1.43em;
-    font-size: 1em;
-    padding: 8px 15px 10px 10px;
-    z-index: 1;
-    transform: rotate(-3deg)
+    padding: 10px;
 }
 
 .bck-box.bck-box-4 .bck-title {
     color: inherit;
-    background: transparent;
-    border: none
+    background: #e79f25;
+    border: none;
+    position: relative;
+    top: -40px;
+    width: fit-content;
+    padding: 0px 35px 0px 12px;
+    border-radius: 23px 39px 0px 10px;
+    left: -14px;
+    color: #fff;
 }
 
 .bck-box.bck-box-4 .bck-content {
-    display: block;
-    line-height: 1.43em;
-    font-size: 1em;
-    background-color: #fde0ce;
-    width: 99%;
-    z-index: 1;
-    padding: 20px;
-    transform: rotate(3deg)
+    background-color: #ffffff;
+    color: #e79f25;
+    border-radius: 10px;
 }
 
 .bck-box.bck-box-6 {
