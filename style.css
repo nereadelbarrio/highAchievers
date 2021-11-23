@@ -2678,6 +2678,22 @@ table td.bck-td-10 {
     background-color: #BED5EE;
 }
 
+.activitytag_vocabulary .bck-box.bck-box-2 .bck-content {
+    border: 1px solid #78AA42;
+}
+
+.activitytag_vocabulary .bck-box.bck-box-2:after {
+    background-image: url(images/icono_caja_02azul.PNG);
+}
+
+.activitytag_vocabulary .bck-box.bck-box-3 .bck-content {
+    border: 1px solid #78AA42;
+}
+
+.activitytag_vocabulary .bck-box.bck-box-3:after {
+    background-image: url(images/icono_caja_02verdederecha.png);
+}
+
 /*activitytag_grammar*/
 .activitytag_grammar .bck-title-1 {
     color: #78AA42;
