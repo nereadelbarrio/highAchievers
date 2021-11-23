@@ -1298,11 +1298,11 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     background: #e79f25;
     border: none;
     position: relative;
-    top: -40px;
+    top: -45px;
     width: fit-content;
     padding: 0px 35px 0px 12px;
-    border-radius: 23px 39px 0px 10px;
-    left: -14px;
+    border-radius: 23px 39px 0px 4px;
+    left: -28px;
     color: #fff;
 }
 
@@ -1310,6 +1310,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     background-color: #ffffff;
     color: #e79f25;
     border-radius: 10px;
+    margin-top: -40px;
 }
 
 .bck-box.bck-box-5 {
@@ -2750,6 +2751,7 @@ table td.bck-td-10 {
 .activitytag_listening #actividad .popover-content ul.bck-ul-1 li:before,
 .activitytag_listening #actividad .content .workspace ul li ul.bck-ul-1 li:before {
     background-color: #F8DEB6;
+    margin-left: 0px;
 }
 
 .activitytag_listening .bck-box.bck-box-2 .bck-content {
