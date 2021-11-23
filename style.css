@@ -655,6 +655,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     text-align: left;
     font-family: 'ZineSlabDisOT-Medi';
     padding-top: 10px;
+    font-weight: 400;
 }
 
 
