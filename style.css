@@ -545,12 +545,18 @@ body #actividad .workspace.chooseblanks .inline-answer a {
 }
 
 #actividad .workspace.clasificar .clasificar_lista .classify-item {
-    border-color: rgba(100,188,213,.611764705882353);
+    border-color: rgb(0 124 57 / 42%);
     padding: 6px
 }
 
+#actividad .workspace.clasificar .clasificar_conjuntos .group-name-title {
+    display: table-cell;
+    vertical-align: middle;
+    font-family: 'StradaOT-Semibd';
+}
+
 #actividad .workspace.clasificar .clasificar_conjuntos .conjunto .group-box {
-    border: 3px solid rgba(100,188,213,.611764705882353);
+    border: 3px solid rgb(0 124 57 / 42%);
     padding-top: 15px
 }
 
@@ -1106,7 +1112,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     z-index: 0;
     margin-left: 0;
     margin-top: 10px;
-    font-weight: 600
+    font-weight: 500;
 }
 
 #actividad .content .cke_contents ol.bck-ol-2 li:before, 
@@ -1115,14 +1121,14 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 #actividad .popover-content ol.bck-ol-2 li:before {
     content: counter(bck-li-counter) " ";
     position: relative;
-    font-size: 1.9rem;
+    font-size: 2rem;
     font-weight: 600;
     color: #414141;
     background: none;
     margin-left: -29px;
     margin-right: 0;
     text-align: right;
-    /* font-family: Conv_FuturaStd-Bold; */
+    font-family: 'ZineSlabDisOT';
 }
 
 #actividad .content .cke_contents .bck-ol-3,
@@ -2640,6 +2646,7 @@ table td.bck-td-10 {
     font-weight: 600;
     padding-left: 10px;
     color: #ec6f59;
+    font-family: 'StradaOT-Semibd';
 }
 
 .bck-dropdown-1 .bck-dropdown-icon {
