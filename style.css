@@ -2018,7 +2018,7 @@ table td.bck-td-10 {
     background-color: #BED5EE;
 }
 
-.activitytag_vocabulary .bck-box.bck-box-2 .bck-content {
+.activitytag_vocabulary .bck-box.bck-box-2>.bck-content {
     border: 1px solid #208FCF;
 }
 
@@ -2026,7 +2026,7 @@ table td.bck-td-10 {
     background-image: url(images/icono_caja_02azul.PNG);
 }
 
-.activitytag_vocabulary .bck-box.bck-box-3 .bck-content {
+.activitytag_vocabulary .bck-box.bck-box-3>.bck-content {
     border: 1px solid #208FCF;
 }
 
@@ -2062,7 +2062,7 @@ table td.bck-td-10 {
     background-color: #D2E0BD;
 }
 
-.activitytag_grammar .bck-box.bck-box-2 .bck-content {
+.activitytag_grammar .bck-box.bck-box-2>.bck-content {
     border: 1px solid #78AA42;
 }
 
@@ -2070,7 +2070,7 @@ table td.bck-td-10 {
     background-image: url(images/icono_caja_02verde.png);
 }
 
-.activitytag_grammar .bck-box.bck-box-3 .bck-content {
+.activitytag_grammar .bck-box.bck-box-3>.bck-content {
     border: 1px solid #78AA42;
 }
 
@@ -2115,7 +2115,7 @@ table td.bck-td-10 {
     margin-left: 0px;
 }
 
-.activitytag_listening .bck-box.bck-box-2 .bck-content {
+.activitytag_listening .bck-box.bck-box-2>.bck-content {
     border: 1px solid #E79F25;
 }
 
@@ -2123,7 +2123,7 @@ table td.bck-td-10 {
     background-image: url(images/icono_caja_02verde.png);
 }
 
-.activitytag_listening .bck-box.bck-box-3 .bck-content {
+.activitytag_listening .bck-box.bck-box-3>.bck-content {
     border: 1px solid #E79F25;
 }
 
@@ -2171,7 +2171,7 @@ table td.bck-td-10 {
     margin-left: 0px;
 }
 
-.activitytag_challenge .bck-box.bck-box-2 .bck-content {
+.activitytag_challenge .bck-box.bck-box-2>.bck-content {
     border: 1px solid #006294;
 }
 
@@ -2179,7 +2179,7 @@ table td.bck-td-10 {
     background-image: url(images/icono_caja_02verde.png);
 }
 
-.activitytag_challenge .bck-box.bck-box-3 .bck-content {
+.activitytag_challenge .bck-box.bck-box-3>.bck-content {
     border: 1px solid #006294;
 }
 
@@ -2187,7 +2187,7 @@ table td.bck-td-10 {
     background-image: url(images/icono_caja_02verdederecha.png);
 }
 
-.activitytag_challenge .bck-box.bck-box-5 .bck-title {
+.activitytag_challenge .bck-box.bck-box-5>.bck-title {
     color: #006294;
 }
 
@@ -2230,12 +2230,6 @@ table td.bck-td-10 {
         left: -32px;
         width: 111.5%
     }
-
-    .bck-box.bck-box-24 {
-        position: relative;
-        left: 50px
-    }
-
     .bck-title-1,.bck-title-4,.bck-title-7,.bck-title-8 {
         left: 0
     }
@@ -2263,16 +2257,7 @@ table td.bck-td-10 {
         padding-left: 0
     }
 
-    .bck-box.bck-box-18 .bck-title:before {
-        margin-left: -23.3%;
-        margin-top: -40px
-    }
 
-    .bck-box.bck-box-18 .bck-title {
-        padding-top: 40px;
-        position: relative;
-        left: -83px
-    }
 
     .bck-box-1 .bck-content p {
         font-size: 2.5rem
