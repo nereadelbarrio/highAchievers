@@ -694,6 +694,34 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     border-radius: 155px 55px 119px 67px/55px 125px 31px 111px;
 }
 
+.bck-enfasis-5 {
+    border-radius: 12px;
+    padding: 7px 15px;
+    background-color: #0095DA;
+    color: #fff;
+}
+
+.bck-enfasis-6 {
+    border-radius: 12px;
+    padding: 7px 15px;
+    background-color: #006F45;
+    color: #fff;
+}
+
+.bck-enfasis-7 {
+    border-radius: 12px;
+    padding: 7px 15px;
+    background-color: #F7941D;
+    color: #fff;
+}
+
+.bck-enfasis-8 {
+    border-radius: 12px;
+    padding: 7px 15px;
+    background-color: #922790;
+    color: #fff;
+}
+
 .texto_curso li {
     line-height: 1.8em!important
 }
