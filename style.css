@@ -2811,34 +2811,34 @@ table td.bck-td-10 {
     background-image: url(images/icono_audio_azulOscuro.png);
 }
 
-.activitytag_challengeactivitytag_challenge #actividad .content .cke_contents .bck-ol-1 li:before, 
-.activitytag_challengeactivitytag_challenge #actividad .content .texto_curso .bck-ol-1 li:before, 
-.activitytag_challengeactivitytag_challenge #actividad .content .workspace ul li .bck-ol-1 li:before, 
-.activitytag_challengeactivitytag_challenge #actividad .popover-content .bck-ol-1 li:before {
+.activitytag_challenge #actividad .content .cke_contents .bck-ol-1 li:before, 
+.activitytag_challenge #actividad .content .texto_curso .bck-ol-1 li:before, 
+.activitytag_challenge #actividad .content .workspace ul li .bck-ol-1 li:before, 
+.activitytag_challenge #actividad .popover-content .bck-ol-1 li:before {
     color: #006294;
 }
 
-.activitytag_challengeactivitytag_challenge #actividad .content .cke_contents .bck-ul-1 li:before,
-.activitytag_challengeactivitytag_challenge #actividad .content .texto_curso ul.bck-ul-1 li:before,
-.activitytag_challengeactivitytag_challenge #actividad .popover-content ul.bck-ul-1 li:before,
-.activitytag_challengeactivitytag_challenge #actividad .content .workspace ul li ul.bck-ul-1 li:before {
+.activitytag_challenge #actividad .content .cke_contents .bck-ul-1 li:before,
+.activitytag_challenge #actividad .content .texto_curso ul.bck-ul-1 li:before,
+.activitytag_challenge #actividad .popover-content ul.bck-ul-1 li:before,
+.activitytag_challenge #actividad .content .workspace ul li ul.bck-ul-1 li:before {
     background-color: #F8DEB6;
     margin-left: 0px;
 }
 
-.activitytag_challengeactivitytag_challengeactivitytag_challenge .bck-box.bck-box-2 .bck-content {
+.activitytag_challenge .bck-box.bck-box-2 .bck-content {
     border: 1px solid #006294;
 }
 
-.activitytag_challengeactivitytag_challengeactivitytag_challenge .bck-box.bck-box-2:after {
+.activitytag_challenge .bck-box.bck-box-2:after {
     background-image: url(images/icono_caja_02verde.png);
 }
 
-.activitytag_challengeactivitytag_challengeactivitytag_challenge .bck-box.bck-box-3 .bck-content {
+.activitytag_challenge .bck-box.bck-box-3 .bck-content {
     border: 1px solid #006294;
 }
 
-.activitytag_challengeactivitytag_challengeactivitytag_challenge .bck-box.bck-box-3:after {
+.activitytag_challenge .bck-box.bck-box-3:after {
     background-image: url(images/icono_caja_02verdederecha.png);
 }
 
