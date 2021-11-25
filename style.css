@@ -688,61 +688,10 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 .bck-enfasis-4 {
-    font-family: Conv_TektonPro-Regular;
-    font-size: 2.2rem;
-    letter-spacing: .6px;
-    color: #22628c
-}
-
-.bck-enfasis-5 {
-    font-family: Conv_FuturaStd-Medium;
-    color: #009fa5
-}
-
-.bck-enfasis-5,.bck-enfasis-6 {
-    font-weight: 500;
-    font-size: 2.1rem
-}
-
-.bck-enfasis-6 {
-    font-family: Conv_FuturaStd-Heavy;
-    color: #b83187
-}
-
-.bck-enfasis-7 {
-    background-color: #d8edee;
-    color: #009fa5;
-    padding: 5px;
-    font-weight: 600;
-    font-size: 2rem
-}
-
-.bck-enfasis-8 {
-    background-color: #353533;
-    color: #fff;
-    font-weight: 600;
-    padding: 3px 5px;
-    width: fit-content;
-    font-size: 1.8rem
-}
-
-.bck-enfasis-9 {
-    font-size: 1.4rem;
-    color: #575656;
-    font-weight: 700
-}
-
-.bck-enfasis-10 {
-    background-color: #d4edfc;
-    border-radius: 20px;
-    padding: 7px
-}
-
-.bck-enfasis-11 {
-    font-weight: 500;
-    font-size: 2.1rem;
-    font-family: Conv_FuturaStd-Medium;
-    color: #8bbf36
+    padding: 7px 18px;
+    /* border: 4px solid #FFCF01; */
+    background-color: #fff;
+    border-radius: 155px 55px 119px 67px/55px 125px 31px 111px;
 }
 
 .texto_curso li {
