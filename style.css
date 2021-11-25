@@ -869,7 +869,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     content: "";
     height: 7px;
     width: 7px;
-    background-color: #ec6608;
+    background-color: #414141;
     position: absolute;
     top: 2px;
     border-radius: 100%;
