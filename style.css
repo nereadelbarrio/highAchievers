@@ -1324,8 +1324,10 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 .bck-box.bck-box-6 .bck-content {
-    background-color: #dbecf1;
-    padding: 8px 8px 8px 19px
+    background-color: #ffffff;
+    box-shadow: inset -11px 2px 15px 0px #c8d2d9;
+    padding: 8px 92px 8px 19px;
+    border-radius: 0 20px 20px 0;
 }
 
 .bck-box.bck-box-7 {
