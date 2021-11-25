@@ -2792,6 +2792,62 @@ table td.bck-td-10 {
     margin-right: 10px
 }
 
+
+/*activitytag_challenge*/
+.activitytag_challenge .bck-title-1 {
+    color: #006294;
+    border: 2px solid #006294 !important;
+}
+
+.activitytag_challenge .bck-title-2 {
+    color: #006294;
+}
+
+.activitytag_challenge .item-container .icon-hablar:before {
+    background-image: url(images/icono_hablar_azulOscuro.png);
+}
+
+.activitytag_challenge #actividad .player.audio {
+    background-image: url(images/icono_audio_azulOscuro.png);
+}
+
+.activitytag_challengeactivitytag_challenge #actividad .content .cke_contents .bck-ol-1 li:before, 
+.activitytag_challengeactivitytag_challenge #actividad .content .texto_curso .bck-ol-1 li:before, 
+.activitytag_challengeactivitytag_challenge #actividad .content .workspace ul li .bck-ol-1 li:before, 
+.activitytag_challengeactivitytag_challenge #actividad .popover-content .bck-ol-1 li:before {
+    color: #006294;
+}
+
+.activitytag_challengeactivitytag_challenge #actividad .content .cke_contents .bck-ul-1 li:before,
+.activitytag_challengeactivitytag_challenge #actividad .content .texto_curso ul.bck-ul-1 li:before,
+.activitytag_challengeactivitytag_challenge #actividad .popover-content ul.bck-ul-1 li:before,
+.activitytag_challengeactivitytag_challenge #actividad .content .workspace ul li ul.bck-ul-1 li:before {
+    background-color: #F8DEB6;
+    margin-left: 0px;
+}
+
+.activitytag_challengeactivitytag_challengeactivitytag_challenge .bck-box.bck-box-2 .bck-content {
+    border: 1px solid #006294;
+}
+
+.activitytag_challengeactivitytag_challengeactivitytag_challenge .bck-box.bck-box-2:after {
+    background-image: url(images/icono_caja_02verde.png);
+}
+
+.activitytag_challengeactivitytag_challengeactivitytag_challenge .bck-box.bck-box-3 .bck-content {
+    border: 1px solid #006294;
+}
+
+.activitytag_challengeactivitytag_challengeactivitytag_challenge .bck-box.bck-box-3:after {
+    background-image: url(images/icono_caja_02verdederecha.png);
+}
+
+
+.activitytag_challenge .item-container .icon-musica:before {
+    background-image: url(images/icono_audio_azulOscuro.png);
+    margin-right: 10px
+}
+
 /*unittag*/
 
 #list-units .unittag_activities_highAchivers {
