@@ -2717,6 +2717,10 @@ table td.bck-td-10 {
     background-image: url(images/icono_caja_02verdederecha.png);
 }
 
+.activitytag_grammar #actividad .player.audio {
+    background-image: url(images/icono_audio_verde.png);
+}
+
 /*activitytag_listening*/
 .activitytag_listening .bck-title-1 {
     color: #E79F25;
