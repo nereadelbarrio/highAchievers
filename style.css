@@ -162,10 +162,11 @@ body {
     max-width: 960px
 }
 
-#actividad .content .header,#actividad .content .header .chapter,
+/*#actividad .content .header,
+#actividad .content .header .chapter,
 #actividad .content .header .title img {
     display: none
-}
+}*/
 
 #actividad .content .header {
     border-bottom: none
@@ -267,7 +268,8 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled) {
     color: #fff
 }
 
-#indice .actividades a:active,#indice .actividades a:focus,#indice .actividades a:hover {
+#indice .actividades a:active,#indice .actividades a:focus,
+#indice .actividades a:hover {
     color: #007c39;
 }
 
@@ -317,24 +319,19 @@ body.is_app #actividad .class_slide {
 }
 
 #actividad .content .header .title h3 {
-    display: none
+        color: #fff;
+    background: #958b83;
+    width: 100%;
+    padding: 13px;
+    font-weight: 700;
 }
 
 #actividad .content .header .title h3:before {
-    content: normal
+    display: none
 }
 
 #actividad .content .header .title h3:after {
-    background-image: url(Images/triangulo-blanco2.png);
-    content: "";
-    background-size: contain;
-    background-repeat: no-repeat;
-    padding: 27px;
-    position: absolute;
-    width: 0;
-    height: auto;
-    margin-left: 18.5px;
-    top: -8.5px!important
+    display: none
 }
 
 .slide_main input {
@@ -583,14 +580,16 @@ body #actividad .workspace.chooseblanks .inline-answer a {
     background-color: rgba(154,153,158,0)
 }
 
-#actividad .player.audio:hover {
+/*#actividad .player.audio:hover {
     -webkit-box-shadow: 2px 2px 2px undefinedpx #a8a3a2;
     box-shadow: 2px 2px 2px undefinedpx #a8a3a2
-}
+}*/
 
 #actividad .content img.player,
-#actividad .player.audio,#actividad .player.video,
-#help-panel-content .player,#remote-alert-modal-rich .player {
+#actividad .player.audio,
+#actividad .player.video,
+#help-panel-content .player,
+#remote-alert-modal-rich .player {
     height: 30px!important;
     width: 28px;
     display: inline-block;
@@ -611,8 +610,10 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     background-color: transparent
 }
 
-#actividad .content img.player,#actividad .player.audio,
-#actividad .player.video,#help-panel-content .player,
+#actividad .content img.player,
+#actividad .player.audio,
+#actividad .player.video,
+#help-panel-content .player,
 #remote-alert-modal-rich .player:hover {
     -webkit-box-shadow: 2px 2px 2px undefinedpx #a8a3a2;
     box-shadow: 2px 2px 2px undefinedpx #a8a3a2
@@ -1292,7 +1293,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 .bck-box.bck-box-5 {
-    padding: 20px 18px 7px 18px;
+    padding: 30px 30px 7px 30px;
         background-color: #F6EED9;
         border-radius: 155px 55px 119px 67px/55px 125px 31px 111px;
 }
@@ -2216,7 +2217,8 @@ table td.bck-td-10 {
         font-size:1.5rem
     }
 
-    .btn-danger,.btn-danger[disabled],.btn-primary[disabled],.btn-primary[disabled]:focus {
+    .btn-danger,.btn-danger[disabled],.btn-primary[disabled],
+    .btn-primary[disabled]:focus {
         margin-bottom: 10px
     }
 }
@@ -2338,7 +2340,10 @@ table td.bck-td-10 {
         margin-top: 99px
     }
 
-    #actividad .player.audio,#actividad .player.video,#help-panel-content .player,#remote-alert-modal-rich .player {
+    #actividad .player.audio,
+    #actividad .player.video,
+    #help-panel-content .player,
+    #remote-alert-modal-rich .player {
         display: inline-block;
         background-image: url(images/rich_english_U7_pg64_img_0004.png);
         background-color: rgba(0,128,0,0)!important;
@@ -2393,7 +2398,10 @@ table td.bck-td-10 {
 }
 
 @media only screen and (max-width: 1024px) and (min-width:769px) {
-    #actividad .player.audio,#actividad .player.video,#help-panel-content .player,#remote-alert-modal-rich .player {
+    #actividad .player.audio,
+    #actividad .player.video,
+    #help-panel-content .player,
+    #remote-alert-modal-rich .player {
         display:inline-block;
         background-image: url(images/rich_english_U7_pg64_img_0004.png);
         background-color: rgba(0,128,0,0)!important;
