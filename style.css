@@ -937,7 +937,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     font-size: 2.3rem;
     font-weight: 600;
     line-height: normal;
-    top: 3px;
+    top: 4px;
     left: auto;
 }
 
@@ -967,15 +967,16 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 #actividad .content .workspace ul li ol.bck-ol-2 li:before, 
 #actividad .popover-content ol.bck-ol-2 li:before {
     content: counter(bck-li-counter) " ";
-    position: relative;
-    font-size: 2rem;
-    font-weight: 600;
-    color: #414141;
-    background: none;
-    margin-left: -29px;
-    margin-right: 0;
-    text-align: right;
-    font-family: 'ZineSlabDisOT';
+        position: absolute;
+        font-size: 2rem;
+        font-weight: 600;
+        color: #414141;
+        background: none;
+        margin-left: -10px;
+        margin-right: 0;
+        text-align: right;
+        font-family: 'ZineSlabDisOT';
+        margin-top: 2px;
 }
 
 #actividad .content .cke_contents .bck-ol-3,
@@ -2255,19 +2256,66 @@ table td.bck-td-10 {
     margin-right: 10px
 }
 
-/*unittag*/
-
-#list-units .unittag_activities_highAchivers {
-    padding-left: 20px
+/*activitytag_writing*/
+.activitytag_writing .bck-title-1 {
+    color: #006F41;
+    border: 2px solid #006F41 !important;
 }
 
-#list-units .unittag_activities_highAchivers:active:not(.disabled),
-#list-units .unittag_activities_highAchivers:focus:not(.disabled),
-#list-units .unittag_activities_highAchivers:hover:not(.disabled) {
-    background-color: #0ca1ea!important
+.activitytag_writing .bck-title-2 {
+    color: #006F41;
+}
+
+.activitytag_writing .item-container .icon-hablar:before {
+    background-image: url(images/icono_hablar_morado.png);
+}
+
+.activitytag_writing #actividad .player.audio {
+    background-image: url(images/icono_audio_morado.png);
+}
+
+.activitytag_writing #actividad .content .cke_contents .bck-ol-1 li:before, 
+.activitytag_writing #actividad .content .texto_curso .bck-ol-1 li:before, 
+.activitytag_writing #actividad .content .workspace ul li .bck-ol-1 li:before, 
+.activitytag_writing #actividad .popover-content .bck-ol-1 li:before {
+    color: #006F41;
+}
+
+.activitytag_writing #actividad .content .cke_contents .bck-ul-1 li:before,
+.activitytag_writing #actividad .content .texto_curso ul.bck-ul-1 li:before,
+.activitytag_writing #actividad .popover-content ul.bck-ul-1 li:before,
+.activitytag_writing #actividad .content .workspace ul li ul.bck-ul-1 li:before {
+    background-color: #E2B9D0;
+    margin-left: 0px;
+}
+
+.activitytag_writing .bck-box.bck-box-2>.bck-content {
+    border: 1px solid #006F41;
+}
+
+.activitytag_writing .bck-box.bck-box-2:after {
+    background-image: url(images/icono_caja_02morado.png);
+}
+
+.activitytag_writing .bck-box.bck-box-3>.bck-content {
+    border: 1px solid #006F41;
+}
+
+.activitytag_writing .bck-box.bck-box-3:after {
+    background-image: url(images/icono_caja_02moradoderecha.png);
+}
+
+.activitytag_writing .bck-box.bck-box-5>.bck-title {
+    color: #006F41;
+}
+
+.activitytag_writing .item-container .icon-musica:before {
+    background-image: url(images/icono_audio_morado.png);
+    margin-right: 10px
 }
 
 
+/*querys*/
 
 @media screen and (max-width: 375px) {
     #actividad .box p {
@@ -2308,11 +2356,15 @@ table td.bck-td-10 {
         left: -3px
     }
 
-    #actividad .content .cke_contents .bck-ol-2 li,#actividad .content .texto_curso .bck-ol-2 li,#actividad .content .workspace ul li .bck-ol-2 li,#actividad .popover-content .bck-ol-2 li {
+    #actividad .content .cke_contents .bck-ol-2 li,
+    #actividad .content .texto_curso .bck-ol-2 li,
+    #actividad .content .workspace ul li .bck-ol-2 li,
+    #actividad .popover-content .bck-ol-2 li {
         margin-left: -20px
     }
 
-    #actividad .carousel-inner .item-container.aux-bckg,#actividad .carousel-inner .item-container.aux-fullscreen {
+    #actividad .carousel-inner .item-container.aux-bckg,
+    #actividad .carousel-inner .item-container.aux-fullscreen {
         padding-left: 0
     }
 
