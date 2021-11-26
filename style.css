@@ -1285,169 +1285,12 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     margin-right: 5px
 }
 
-.item-container .icon.icon-nivel1:before {
-    background-image: url(images/icono_nivel1.png);
-    height: 30px!important
-}
-
-.item-container .icon.icon-nivel1:before,.item-container .icon.icon-nivel2:before {
-    content: "";
-    background-repeat: no-repeat;
-    -webkit-background-size: contain;
-    -moz-background-size: contain;
-    -o-background-size: contain;
-    background-size: contain;
-    background-position: 50%;
-    display: inline-block;
-    vertical-align: middle;
-    width: 205px;
-    margin-right: 3px
-}
-
-.item-container .icon.icon-nivel2:before {
-    background-image: url(images/icono_nivel2.png);
-    height: 30px
-}
-
-.item-container .icon.icon-nivel3:before {
-    background-image: url(images/icono_nivel3.png)
-}
-
-.item-container .icon-nivel4:before,.item-container .icon.icon-nivel3:before {
-    content: "";
-    background-repeat: no-repeat;
-    -webkit-background-size: contain;
-    -moz-background-size: contain;
-    -o-background-size: contain;
-    background-size: contain;
-    background-position: 50%;
-    display: inline-block;
-    vertical-align: middle;
-    height: 30px;
-    width: 205px;
-    margin-right: 3px
-}
-
-.item-container .icon-nivel4:before {
-    background-image: url(images/icono_nivel4.png)
-}
-
-.item-container .icon-nivel5:before {
-    background-image: url(images/icono_nivel5.png)
-}
-
-.item-container .icon-nivel5:before,.item-container .icon-nivel6:before {
-    content: "";
-    background-repeat: no-repeat;
-    -webkit-background-size: contain;
-    -moz-background-size: contain;
-    -o-background-size: contain;
-    background-size: contain;
-    background-position: 50%;
-    display: inline-block;
-    vertical-align: middle;
-    height: 30px;
-    width: 205px;
-    margin-right: 3px
-}
-
-.item-container .icon-nivel6:before {
-    background-image: url(images/icono_nivel6.png)
-}
-
-.item-container .icon-focus:before {
-    background-image: url(images/icono_focus.png);
-    margin-right: 3px
-}
-
-.item-container .icon-focus:before,.item-container .icon-musica:before {
-    content: "";
-    background-repeat: no-repeat;
-    -webkit-background-size: contain;
-    -moz-background-size: contain;
-    -o-background-size: contain;
-    background-size: contain;
-    background-position: 50%;
-    display: inline-block;
-    vertical-align: middle;
-    height: 30px;
-    width: 33px
-}
-
 .item-container .icon-musica:before {
     background-image: url(images/icono_audio_naranja.PNG);
     margin-right: 10px
 }
 
-.item-container .icon.icon-musica2:before {
-    display: none
-}
 
-.item-container .icon-lupa:before {
-    background-image: url(images/icono_lupa.png)
-}
-
-.item-container .icon-lapiz:before,.item-container .icon-lupa:before {
-    content: "";
-    background-repeat: no-repeat;
-    -webkit-background-size: contain;
-    -moz-background-size: contain;
-    -o-background-size: contain;
-    background-size: contain;
-    background-position: 50%;
-    display: inline-block;
-    vertical-align: middle;
-    height: 30px;
-    width: 33px;
-    margin-right: 3px
-}
-
-.item-container .icon-lapiz:before {
-    background-image: url(images/icono_lapiz.png)
-}
-
-.item-container .icon-libro:before {
-    background-image: url(images/icono_libro.png)
-}
-
-.item-container .icon-libro:before,.item-container .icon-play:before {
-    content: "";
-    background-repeat: no-repeat;
-    -webkit-background-size: contain;
-    -moz-background-size: contain;
-    -o-background-size: contain;
-    background-size: contain;
-    background-position: 50%;
-    display: inline-block;
-    vertical-align: middle;
-    height: 30px;
-    width: 33px;
-    margin-right: 3px
-}
-
-.item-container .icon-play:before {
-    background-image: url(images/rich_english_U7_pg64_img_0005.png)
-}
-
-.item-container .icon-fast:before {
-    background-image: url(images/rich_english_U7_pg64_img_0009.PNG);
-    -webkit-background-size: contain;
-    -moz-background-size: contain;
-    -o-background-size: contain;
-    vertical-align: middle;
-    height: 30px;
-    width: 33px;
-    margin-right: 3px
-}
-
-.item-container .icon-fast:before,
-.item-container .icon:before {
-    content: "";
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
-    display: inline-block
-}
 
 /*.item-container .icon:before {
     vertical-align: text-bottom
@@ -1461,6 +1304,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     display: inline-block;
 }*/
 
+/*tablas*/
 .bck-table td,table td {
     padding: 10px;
     border-color: #ccc
@@ -1479,73 +1323,7 @@ td,th {
     border: 0 solid #ccc
 }
 
-.bck-table-2,.bck-table-2 td {
-    border: 1px solid #2e73b9
-}
 
-table td.bck-td-2 {
-    color: #fff;
-    background: #2e73b9;
-    text-align: center
-}
-
-.bck-table-3,.bck-table-3 td {
-    border: 2px solid #b83187
-}
-
-.bck-table-3 td {
-    background-color: #fff;
-    color: #333;
-    font-size: 1.9rem
-}
-
-.bck-table-4,.bck-table-4 td {
-    border: 1px solid #8bbf36
-}
-
-table td.bck-td-4 {
-    color: #fff;
-    background: #8bbf36;
-    text-align: center
-}
-
-.bck-table-5 {
-    border: 1px solid #1b1b18
-}
-
-table td.bck-td-5 {
-    border-top: 1px solid transparent
-}
-
-table td.bck-td-6 {
-    border-left: 1px solid transparent
-}
-
-table td.bck-td-7 {
-    border-bottom: 1px solid transparent
-}
-
-table td.bck-td-8 {
-    border-right: 1px solid transparent
-}
-
-.bck-table-6,.bck-table-6 td {
-    border: 1px solid #80539d
-}
-
-table td.bck-td-9 {
-    background: #80539d;
-    color: #fff
-}
-
-.bck-table-7,.bck-table-7 td {
-    border: 1px solid #5a75b8
-}
-
-table td.bck-td-10 {
-    background: #5a75b8;
-    color: #fff
-}
 
 #actividad .workspace.test .respuestas li {
     width: 32%
