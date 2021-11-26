@@ -15,6 +15,7 @@
 			styles: [
 				{ name: 'Título 01', element: 'h2', attributes: { 'class': 'bck-title bck-title-1'} },
 				{ name: 'Título 02', element: 'h2', attributes: { 'class': 'bck-title bck-title-2'} },
+				{ name: 'Título 03', element: 'h2', attributes: { 'class': 'bck-title bck-title-3'} },
 				
 				{ name: 'Énfasis 01', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
 				{ name: 'Énfasis 02', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
