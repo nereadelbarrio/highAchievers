@@ -2192,9 +2192,66 @@ table td.bck-td-10 {
     color: #006294;
 }
 
-
 .activitytag_challenge .item-container .icon-musica:before {
     background-image: url(images/icono_audio_azulOscuro.png);
+    margin-right: 10px
+}
+
+/*activitytag_interaction*/
+.activitytag_interaction .bck-title-1 {
+    color: #B51F7E;
+    border: 2px solid #B51F7E !important;
+}
+
+.activitytag_interaction .bck-title-2 {
+    color: #B51F7E;
+}
+
+.activitytag_interaction .item-container .icon-hablar:before {
+    background-image: url(images/icono_hablar_morado.png);
+}
+
+.activitytag_interaction #actividad .player.audio {
+    background-image: url(images/icono_audio_morado.png);
+}
+
+.activitytag_interaction #actividad .content .cke_contents .bck-ol-1 li:before, 
+.activitytag_interaction #actividad .content .texto_curso .bck-ol-1 li:before, 
+.activitytag_interaction #actividad .content .workspace ul li .bck-ol-1 li:before, 
+.activitytag_interaction #actividad .popover-content .bck-ol-1 li:before {
+    color: #B51F7E;
+}
+
+.activitytag_interaction #actividad .content .cke_contents .bck-ul-1 li:before,
+.activitytag_interaction #actividad .content .texto_curso ul.bck-ul-1 li:before,
+.activitytag_interaction #actividad .popover-content ul.bck-ul-1 li:before,
+.activitytag_interaction #actividad .content .workspace ul li ul.bck-ul-1 li:before {
+    background-color: #E2B9D0;
+    margin-left: 0px;
+}
+
+.activitytag_interaction .bck-box.bck-box-2>.bck-content {
+    border: 1px solid #B51F7E;
+}
+
+.activitytag_interaction .bck-box.bck-box-2:after {
+    background-image: url(images/icono_caja_02morado.png);
+}
+
+.activitytag_interaction .bck-box.bck-box-3>.bck-content {
+    border: 1px solid #B51F7E;
+}
+
+.activitytag_interaction .bck-box.bck-box-3:after {
+    background-image: url(images/icono_caja_02moradoderecha.png);
+}
+
+.activitytag_interaction .bck-box.bck-box-5>.bck-title {
+    color: #B51F7E;
+}
+
+.activitytag_interaction .item-container .icon-musica:before {
+    background-image: url(images/icono_audio_morado.png);
     margin-right: 10px
 }
 
