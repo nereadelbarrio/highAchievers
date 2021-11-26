@@ -2036,6 +2036,23 @@ table td.bck-td-10 {
     background-image: url(images/icono_caja_02verdederecha.png);
 }
 
+.activitytag_vocabulary .bck-dropdown.bck-dropdown-1 {
+    border: 3px solid #208FCF;
+}
+
+.activitytag_vocabulary .bck-dropdown-1 .bck-dropdown-titulo {
+    color: #208FCF;
+}
+
+.activitytag_vocabulary .bck-dropdown-1 .bck-dropdown-icon {
+    color: #208FCF;
+}
+
+.activitytag_vocabulary.bck-dropdown-1 .fa-chevron-up:before, 
+.activitytag_vocabulary .bck-dropdown-1 .fa-chevron-down:before {
+    color: #208FCF;
+}
+
 /*activitytag_grammar*/
 .activitytag_grammar .bck-title-1 {
     color: #78AA42;
@@ -2082,6 +2099,23 @@ table td.bck-td-10 {
 
 .activitytag_grammar #actividad .player.audio {
     background-image: url(images/icono_audio_verde.png);
+}
+
+.activitytag_grammar .bck-dropdown.bck-dropdown-1 {
+    border: 3px solid #78AA42;
+}
+
+.activitytag_grammar .bck-dropdown-1 .bck-dropdown-titulo {
+    color: #78AA42;
+}
+
+.activitytag_grammar .bck-dropdown-1 .bck-dropdown-icon {
+    color: #78AA42;
+}
+
+.activitytag_grammar.bck-dropdown-1 .fa-chevron-up:before, 
+.activitytag_grammar .bck-dropdown-1 .fa-chevron-down:before {
+    color: #78AA42;
 }
 
 /*activitytag_listening*/
@@ -2139,6 +2173,22 @@ table td.bck-td-10 {
     margin-right: 10px
 }
 
+.activitytag_listening .bck-dropdown.bck-dropdown-1 {
+    border: 3px solid #E79F25;
+}
+
+.activitytag_listening .bck-dropdown-1 .bck-dropdown-titulo {
+    color: #E79F25;
+}
+
+.activitytag_listening .bck-dropdown-1 .bck-dropdown-icon {
+    color: #E79F25;
+}
+
+.activitytag_listening.bck-dropdown-1 .fa-chevron-up:before, 
+.activitytag_listening .bck-dropdown-1 .fa-chevron-down:before {
+    color: #E79F25;
+}
 
 /*activitytag_challenge*/
 .activitytag_challenge .bck-title-1 {
@@ -2196,6 +2246,23 @@ table td.bck-td-10 {
 .activitytag_challenge .item-container .icon-musica:before {
     background-image: url(images/icono_audio_azulOscuro.png);
     margin-right: 10px
+}
+
+.activitytag_challenge .bck-dropdown.bck-dropdown-1 {
+    border: 3px solid #006294;
+}
+
+.activitytag_challenge .bck-dropdown-1 .bck-dropdown-titulo {
+    color: #006294;
+}
+
+.activitytag_challenge .bck-dropdown-1 .bck-dropdown-icon {
+    color: #006294;
+}
+
+.activitytag_challenge.bck-dropdown-1 .fa-chevron-up:before, 
+.activitytag_challenge .bck-dropdown-1 .fa-chevron-down:before {
+    color: #006294;
 }
 
 /*activitytag_interaction*/
@@ -2256,6 +2323,23 @@ table td.bck-td-10 {
     margin-right: 10px
 }
 
+.activitytag_interaction .bck-dropdown.bck-dropdown-1 {
+    border: 3px solid #B51F7E;
+}
+
+.activitytag_interaction .bck-dropdown-1 .bck-dropdown-titulo {
+    color: #B51F7E;
+}
+
+.activitytag_interaction .bck-dropdown-1 .bck-dropdown-icon {
+    color: #B51F7E;
+}
+
+.activitytag_interaction.bck-dropdown-1 .fa-chevron-up:before, 
+.activitytag_interaction .bck-dropdown-1 .fa-chevron-down:before {
+    color: #B51F7E;
+}
+
 /*activitytag_writing*/
 .activitytag_writing .bck-title-1 {
     color: #006F41;
@@ -2313,6 +2397,24 @@ table td.bck-td-10 {
     background-image: url(images/icono_audio_morado.png);
     margin-right: 10px
 }
+
+.activitytag_writing .bck-dropdown.bck-dropdown-1 {
+    border: 3px solid #006F41;
+}
+
+.activitytag_writing .bck-dropdown-1 .bck-dropdown-titulo {
+    color: #006F41;
+}
+
+.activitytag_writing .bck-dropdown-1 .bck-dropdown-icon {
+    color: #006F41;
+}
+
+.activitytag_writing.bck-dropdown-1 .fa-chevron-up:before, 
+.activitytag_writing .bck-dropdown-1 .fa-chevron-down:before {
+    color: #006F41;
+}
+
 
 
 /*querys*/
