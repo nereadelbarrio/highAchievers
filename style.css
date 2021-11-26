@@ -659,7 +659,26 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     font-weight: 400;
 }
 
+.bck-title-3 {
+    color: #006F41;
+    font-size: 2.5rem;
+    text-align: left;
+    font-family: 'ZineSlabDisOT-Medi';
+    padding-top: 10px;
+    font-weight: 400;
+}
 
+.bck-title-3:before {
+    content: "WRITING SKILL";
+    z-index: 100;
+    width: 22%;
+    padding: 10px 36px;
+    background-color: #007c39;
+    display: inline-block;
+    color: #fff;
+    -moz-border-radius: 0;
+    border-radius: 20px 0 0 50px;
+}
 
 /*enfasis*/
 /*.bck-enfasis {
@@ -979,163 +998,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
         margin-top: 2px;
 }
 
-#actividad .content .cke_contents .bck-ol-3,
-#actividad .content .texto_curso .bck-ol-3,
-#actividad .content .workspace ul li .bck-ol-3,
-#actividad .popover-content .bck-ol-3 {
-    list-style-type: none;
-    counter-reset: bck-li-counter
-}
 
-#actividad .content .cke_contents .bck-ol-3 li,
-#actividad .content .texto_curso .bck-ol-3 li,
-#actividad .content .workspace ul li .bck-ol-3 li,
-#actividad .popover-content .bck-ol-3 li {
-    counter-increment: bck-li-counter;
-    padding-left: 0;
-    position: relative;
-    z-index: 0;
-    margin-left: 23px;
-    margin-top: 10px;
-    font-size: 1.9rem;
-    font-weight: 500;
-    line-height: 1.8em!important
-}
-
-#actividad .content .cke_contents ol.bck-ol-3 li:before,#actividad .content .texto_curso ol.bck-ol-3 li:before,#actividad .content .workspace ul li ol.bck-ol-3 li:before,#actividad .popover-content ol.bck-ol-3 li:before {
-    content: counter(bck-li-counter);
-    position: absolute;
-    margin-left: -50px;
-    margin-right: 0;
-    font-size: 2rem;
-    text-align: center;
-    font-weight: 700;
-    padding: 3px;
-    top: 1px;
-    left: 14px;
-    line-height: 25px;
-    font-family: Conv_FuturaStd-Bold;
-    color: inherit
-}
-
-#actividad .content .cke_contents .bck-ol-4,#actividad .content .texto_curso .bck-ol-4,#actividad .content .workspace ul li .bck-ol-4,#actividad .popover-content .bck-ol-4 {
-    list-style-type: none;
-    counter-reset: bck-li-counter;
-    margin-left: 20px
-}
-
-#actividad .content .cke_contents .bck-ol-4 li,#actividad .content .texto_curso .bck-ol-4 li,#actividad .content .workspace ul li .bck-ol-4 li,#actividad .popover-content .bck-ol-4 li {
-    counter-increment: bck-li-counter;
-    padding-left: 0;
-    position: relative;
-    z-index: 0;
-    margin-left: 0
-}
-
-#actividad .content .cke_contents .bck-ol-4 li:before,#actividad .content .texto_curso ol.bck-ol-4 li:before,#actividad .content .workspace ul li ol.bck-ol-4 li:before,#actividad .popover-content ol.bck-ol-4 li:before {
-    content: counter(bck-li-counter,lower-alpha) ".";
-    position: absolute;
-    text-align: center;
-    color: #333;
-    line-height: normal;
-    margin-left: -25px;
-    line-height: unset;
-    font-weight: 600;
-    margin-top: 0
-}
-
-#actividad .content .cke_contents .bck-ol-5,#actividad .content .texto_curso .bck-ol-5,#actividad .content .workspace ul li .bck-ol-5,#actividad .popover-content .bck-ol-5 {
-    list-style-type: none;
-    counter-reset: bck-li-counter;
-    margin-left: 20px
-}
-
-#actividad .content .cke_contents .bck-ol-5 li,#actividad .content .texto_curso .bck-ol-5 li,#actividad .content .workspace ul li .bck-ol-5 li,#actividad .popover-content .bck-ol-5 li {
-    counter-increment: bck-li-counter;
-    padding-left: 0;
-    position: relative;
-    z-index: 0;
-    margin-left: 0
-}
-
-#actividad .content .cke_contents .bck-ol-5 li:before,#actividad .content .texto_curso ol.bck-ol-5 li:before,#actividad .content .workspace ul li ol.bck-ol-5 li:before,#actividad .popover-content ol.bck-ol-5 li:before {
-    content: counter(bck-li-counter,lower-alpha) ".";
-    position: absolute;
-    text-align: center;
-    color: #814997;
-    line-height: normal;
-    margin-left: -25px;
-    line-height: unset;
-    font-weight: 600;
-    margin-top: 0
-}
-
-#actividad .content .cke_contents .bck-ol-6,#actividad .content .texto_curso .bck-ol-6,#actividad .content .workspace ul li .bck-ol-6,#actividad .popover-content .bck-ol-6 {
-    list-style-type: none;
-    counter-reset: bck-li-counter
-}
-
-#actividad .content .cke_contents .bck-ol-6 li,#actividad .content .texto_curso .bck-ol-6 li,#actividad .content .workspace ul li .bck-ol-6 li,#actividad .popover-content .bck-ol-6 li {
-    counter-increment: bck-li-counter;
-    padding-left: 0;
-    position: relative;
-    z-index: 0;
-    margin-left: 23px;
-    margin-top: 10px;
-    font-size: 1.9rem;
-    font-weight: 500;
-    line-height: 1.8em!important
-}
-
-#actividad .content .cke_contents ol.bck-ol-6 li:before,#actividad .content .texto_curso ol.bck-ol-6 li:before,#actividad .content .workspace ul li ol.bck-ol-6 li:before,#actividad .popover-content ol.bck-ol-6 li:before {
-    content: counter(bck-li-counter);
-    color: #fff;
-    background-color: #333;
-    position: absolute;
-    margin-left: -45px;
-    margin-right: 0;
-    font-size: 1.6rem;
-    text-align: center;
-    font-weight: 700;
-    padding: 0 6px;
-    top: 5px;
-    left: 12px;
-    line-height: 25px
-}
-
-#actividad .content .cke_contents .bck-ol-7,#actividad .content .texto_curso .bck-ol-7,#actividad .content .workspace ul li .bck-ol-7,#actividad .popover-content .bck-ol-7 {
-    list-style-type: none;
-    counter-reset: bck-li-counter;
-    margin-left: -10px
-}
-
-#actividad .content .cke_contents .bck-ol-7 li,#actividad .content .texto_curso .bck-ol-7 li,#actividad .content .workspace ul li .bck-ol-7 li,#actividad .popover-content .bck-ol-7 li {
-    counter-increment: bck-li-counter;
-    padding-left: 0;
-    position: relative;
-    z-index: 0;
-    margin-left: 0;
-    margin-top: 10px;
-    font-size: 1.9rem;
-    font-weight: 500;
-    line-height: 1.8em!important
-}
-
-#actividad .content .cke_contents ol.bck-ol-7 li:before,#actividad .content .texto_curso ol.bck-ol-7 li:before,#actividad .content .workspace ul li ol.bck-ol-7 li:before,#actividad .popover-content ol.bck-ol-7 li:before {
-    content: counter(bck-li-counter);
-    color: #fff;
-    background-color: #333;
-    position: absolute;
-    margin-left: -45px;
-    margin-right: 0;
-    font-size: 1.6rem;
-    text-align: center;
-    font-weight: 700;
-    padding: 0 6px;
-    top: 5px;
-    left: 12px;
-    line-height: 25px
-}
 
 .bck-box {
     max-width: none;
