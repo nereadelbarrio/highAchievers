@@ -2047,6 +2047,10 @@ td,th {
     background-color: #006294;
 }
 
+.activitytag_challenge .bck-box.bck-box-9 {
+    BORDER: 3px solid #006294;
+}
+
 
 .activitytag_challenge .item-container .icon-hablar:before {
     background-image: url(images/icono_hablar_azulOscuro.png);
