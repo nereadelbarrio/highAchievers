@@ -683,6 +683,25 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     vertical-align: sub;
 }
 
+.bck-title-4 {
+    color: inherit;
+    background-color: #a9d5c5;
+    height: 64px;
+    border-radius: 15px;
+    width: 70%;
+}
+
+.bck-title-4:before {
+    content: "";
+    background-image: url(images/icono_title_04.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 62px;
+    margin-top: -30px;
+    position: absolute;
+    left: 30px;
+}
+
 /*enfasis*/
 /*.bck-enfasis {
     font-size: 5rem;
