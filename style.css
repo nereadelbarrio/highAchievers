@@ -404,9 +404,9 @@ body.is_app .highAchivers-navbar.ocultar {
 }
 
 #actividad .content img {
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    border-radius: 5px
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px
 }
 
 li img {
@@ -1213,6 +1213,19 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     color: #414141;
 }
 
+.bck-box.bck-box-7 {
+    position: relative;
+        padding: 0px;
+        background-size: cover;
+        top: -22px;
+        left: -107px;
+        width: 127.9%;
+        margin-bottom: -40px;
+}
+
+.bck-box-7 > .bck-content {
+    padding: 0;
+}
 
 
 #actividad .content .iniciounidad .header .title h3 {
