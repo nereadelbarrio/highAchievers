@@ -766,6 +766,8 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     position: relative;
     top: 24px;
     font-size: 2rem;
+    padding: 7PX 15PX;
+    border-radius: 30px 10px 37px 10px;
 }
 
 .texto_curso li {
