@@ -1077,7 +1077,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 .bck-box-1>.bck-content p {
-    font-size: 3.2rem
+    font-size: 2.2rem
 }
 
 .bck-box.bck-box-2 {
@@ -1239,6 +1239,68 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 .bck-box-7 > .bck-content {
     padding: 0;
+}
+
+.bck-box.bck-box-8 {
+    position: relative;
+    BORDER: 3px solid #ec6f59;
+    border-radius: 20px 80px 20px 80px;
+    border-left: 130px solid #ec6f59;
+    padding: 5px 19px;
+}
+
+.bck-box.bck-box-8:after {
+content: " ";
+background-color: red;
+    border-radius: 30px 10px 37px 10px;
+}
+
+.bck-box.bck-box-8:before {
+    background-image: url(images/icono_caja_03.png);
+    content: " ";
+    position: absolute;
+    left: -120px;
+    z-index: 100;
+    padding: 41px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    top: 12px;
+    border: none;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+}
+
+.bck-box-8>.bck-title {
+    color: #ffffff;
+    transform: rotate(270deg);
+    width: fit-content;
+    position: relative;
+    top: 120px;
+    left: -185px;
+    font-family: 'ZineSlabDisOT-Medi';
+}
+
+.bck-box-1>.bck-title p {
+    font-size: 2.6rem;
+}
+
+.bck-box.bck-box-8>.bck-content {
+    padding-left: 0
+}
+
+.bck-title {
+    border-bottom: none
+}
+
+.bck-box-8>.bck-content {
+    text-align: left;
+    padding: 0;
+}
+
+.bck-box-8>.bck-content p {
+    font-size: 3.2rem
 }
 
 
