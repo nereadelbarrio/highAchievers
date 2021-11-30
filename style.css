@@ -875,7 +875,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     width: 12px;
     background-color: #FAC9B6;
     border-radius: 100%;
-    margin-top: 14px;
+    margin-top: 13px;
     margin-left: -19px;
 }
 
@@ -993,7 +993,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
         font-weight: 600;
         color: #414141;
         background: none;
-        margin-left: -10px;
+        margin-left: -15px;
         margin-right: 0;
         text-align: right;
         font-family: 'ZineSlabDisOT';
