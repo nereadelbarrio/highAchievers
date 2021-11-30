@@ -1333,6 +1333,12 @@ display: none;
     font-size: 2rem
 }
 
+.bck-box.bck-box-9 {
+    BORDER: 3px solid #208FCF;
+    border-radius: 20px 80px 20px 80px;
+    padding: 30px;
+}
+
 
 #actividad .content .iniciounidad .header .title h3 {
     margin-top: 150px
