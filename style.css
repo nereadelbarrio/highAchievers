@@ -1634,6 +1634,18 @@ td,th {
     border-color: #5aaa7f99;
 }
 
+/*unittag*/
+/*unittag_specialContent*/
+#list-units .unittag_specialcontent_highachivers:hover {
+    background: #95ce26 !important;
+}
+
+.units ul#list-units .unittag_specialcontent_highachivers a .title {
+    color: #fff;
+    margin-left: 20px!important;
+}
+
+
 /*activitytag*/
 /*activitytag_vocabulary*/
 .activitytag_vocabulary .bck-title-1 {
