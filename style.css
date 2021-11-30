@@ -685,7 +685,6 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 .bck-title-4 {
     color: inherit;
-    background-color: #a9d5c5;
     height: 64px;
     border-radius: 15px;
     width: 70%;
@@ -1337,6 +1336,7 @@ display: none;
     BORDER: 3px solid #208FCF;
     border-radius: 20px 80px 20px 80px;
     padding: 14px 38px 19px 32px;
+    background-color:   #fff;
 }
 
 
