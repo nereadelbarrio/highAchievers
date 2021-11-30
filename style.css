@@ -746,7 +746,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 .bck-enfasis-9 {
-color: #EC6F59;
+    color: #EC6F59;
     border: 2px solid #ec6f59 !important;
     font-size: 2.4rem;
     background: #ffffff;
@@ -1686,6 +1686,11 @@ td,th {
     color: #208FCF;
 }
 
+.activitytag_vocabulary .bck-enfasis-9 {
+    color: #208FCF;
+    border: 2px solid #208FCF !important;
+}
+
 .activitytag_vocabulary .item-container .icon-hablar:before {
     background-image: url(images/icono_hablar_azul.png);
 }
@@ -1745,6 +1750,11 @@ td,th {
 
 .activitytag_grammar .bck-title-2 {
     color: #78AA42;
+}
+
+.activitytag_grammar .bck-enfasis-9 {
+    color: #78AA42;
+    border: 2px solid #78AA42 !important;
 }
 
 .activitytag_grammar .item-container .icon-hablar:before {
@@ -1810,6 +1820,11 @@ td,th {
 
 .activitytag_listening .bck-title-2 {
     color: #E79F25;
+}
+
+.activitytag_listening .bck-enfasis-9 {
+    color: #E79F25;
+    border: 2px solid #E79F25 !important;
 }
 
 .activitytag_listening .item-container .icon-hablar:before {
@@ -1882,6 +1897,11 @@ td,th {
 
 .activitytag_challenge .bck-title-2 {
     color: #006294;
+}
+
+.activitytag_challenge .bck-enfasis-9 {
+    color: #006294;
+    border: 2px solid #006294 !important;
 }
 
 .activitytag_challenge .item-container .icon-hablar:before {
@@ -1959,6 +1979,11 @@ td,th {
     color: #B51F7E;
 }
 
+.activitytag_interaction .bck-enfasis-9 {
+    color: #B51F7E;
+    border: 2px solid #B51F7E !important;
+}
+
 .activitytag_interaction .item-container .icon-hablar:before {
     background-image: url(images/icono_hablar_morado.png);
 }
@@ -2032,6 +2057,11 @@ td,th {
 
 .activitytag_writing .bck-title-2 {
     color: #006F41;
+}
+
+.activitytag_writing .bck-enfasis-9 {
+    color: #006F41;
+    border: 2px solid #006F41 !important;
 }
 
 .activitytag_writing .item-container .icon-hablar:before {
