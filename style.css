@@ -1202,7 +1202,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 .bck-box.bck-box-5>.bck-content {
     color: #1F1A15;
     border-radius: 10px;
-    padding: 6px 44px;
+    padding: 6px 25px 6px 23px;
     border-radius: 0;
 }
 
