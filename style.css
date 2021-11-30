@@ -1636,12 +1636,15 @@ td,th {
 
 /*unittag*/
 /*unittag_specialContent*/
-#list-units .unittag_specialcontent_highachivers:hover {
+#list-units .unittag_specialcontent_highachivers:hover,
+#list-units .unittag_specialcontent_highachivers.active:not(.disabled),
+#list-units .unittag_specialcontent_highachivers:focus:not(.disabled) {
     background: #95ce26 !important;
 }
 
-.units ul#list-units .unittag_specialcontent_highachivers a .title {
-    margin-left: 20px!important;
+
+.units ul#list-units .unittag_specialcontent_highachivers a .title:hover {
+    margin-left: 40px!important;
 }
 
 
