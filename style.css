@@ -637,7 +637,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     font-size: 2.4rem;
     background: #ffffff;
     width: fit-content;
-    padding: 7PX 70PX 7px 24px;
+    padding: 7PX 30PX 7px 24px;
     border-radius: 30px 10px 37px 10px;
     font-weight: 700;
     font-family: 'StradaOT-Semibd';
@@ -657,6 +657,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     font-family: 'ZineSlabDisOT-Medi';
     padding-top: 10px;
     font-weight: 400;
+    margin-left: -25px;
 }
 
 .bck-title-3 {
