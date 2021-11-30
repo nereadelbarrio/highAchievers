@@ -1339,6 +1339,17 @@ display: none;
     background-color:   #fff;
 }
 
+.bck-box.bck-box-10 {
+    BORDER: 3px solid #208FCF;
+    border-radius: 0px 0px 30px 0px;
+    padding: 9px 15px;
+    background-color: #DDE9F7;
+}
+
+.bck-box-10>.bck-content {
+    color: #208FCF;
+    font-family: 'ZineSlabDisOT-Medi';
+}
 
 #actividad .content .iniciounidad .header .title h3 {
     margin-top: 150px
