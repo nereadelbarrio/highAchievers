@@ -2294,7 +2294,334 @@ td,th {
     color: #006F41;
 }
 
+/*activitytag_video*/
+.activitytag_video .bck-title-1 {
+    color: #E0C002;
+    border: 2px solid #006F41 !important;
+}
 
+.activitytag_video .bck-title-2 {
+    color: #E0C002;
+}
+
+.activitytag_video .bck-enfasis-9 {
+    color: #E0C002;
+    border: 2px solid #E0C002 !important;
+}
+
+.activitytag_video .bck-enfasis-10 {
+    background-color: #E0C002;
+}
+
+.activitytag_video #actividad .content .cke_contents .bck-ol-1 li:before, 
+.activitytag_video #actividad .content .texto_curso .bck-ol-1 li:before, 
+.activitytag_video #actividad .content .workspace ul li .bck-ol-1 li:before, 
+.activitytag_video #actividad .popover-content .bck-ol-1 li:before {
+    color: #E0C002;
+}
+
+.activitytag_video #actividad .content .cke_contents .bck-ul-1 li:before,
+.activitytag_video #actividad .content .texto_curso ul.bck-ul-1 li:before,
+.activitytag_video #actividad .popover-content ul.bck-ul-1 li:before,
+.activitytag_video #actividad .content .workspace ul li ul.bck-ul-1 li:before {
+    background-color: #E2B9D0;
+    margin-left: 0px;
+}
+
+
+.activitytag_video .bck-box.bck-box-5>.bck-title {
+    color: #E0C002;
+}
+
+
+.activitytag_video .bck-dropdown.bck-dropdown-1 {
+    border: 3px solid #E0C002;
+}
+
+.activitytag_video .bck-dropdown-1 .bck-dropdown-titulo {
+    color: #E0C002;
+}
+
+.activitytag_video .bck-dropdown-1 .bck-dropdown-icon {
+    color: #E0C002;
+}
+
+.activitytag_video.bck-dropdown-1 .fa-chevron-up:before, 
+.activitytag_video .bck-dropdown-1 .fa-chevron-down:before {
+    color: #E0C002;
+}
+
+/*activitytag_stories*/
+.activitytag_stories .bck-title-1 {
+    color: #A10436;
+    border: 2px solid #A10436 !important;
+}
+
+.activitytag_stories .bck-title-2 {
+    color: #A10436;
+}
+
+.activitytag_stories .bck-enfasis-9 {
+    color: #A10436;
+    border: 2px solid #A10436 !important;
+}
+
+.activitytag_stories .bck-enfasis-10 {
+    background-color: #A10436;
+}
+
+.activitytag_stories .item-container .icon-hablar:before {
+    background-image: url(images/icono_audio_burdeos.PNG);
+}
+
+.activitytag_stories #actividad .player.audio {
+    background-image: url(images/icono_audio_burdeos.PNG);
+}
+
+.activitytag_stories #actividad .content .cke_contents .bck-ol-1 li:before, 
+.activitytag_stories #actividad .content .texto_curso .bck-ol-1 li:before, 
+.activitytag_stories #actividad .content .workspace ul li .bck-ol-1 li:before, 
+.activitytag_stories #actividad .popover-content .bck-ol-1 li:before {
+    color: #A10436;
+}
+
+.activitytag_stories #actividad .content .cke_contents .bck-ul-1 li:before,
+.activitytag_stories #actividad .content .texto_curso ul.bck-ul-1 li:before,
+.activitytag_stories #actividad .popover-content ul.bck-ul-1 li:before,
+.activitytag_stories #actividad .content .workspace ul li ul.bck-ul-1 li:before {
+    background-color: #E2B9D0;
+    margin-left: 0px;
+}
+
+.activitytag_stories .bck-box.bck-box-5>.bck-title {
+    color: #A10436;
+}
+
+.activitytag_stories .item-container .icon-musica:before {
+    background-image: url(images/icono_audio_morado.png);
+    margin-right: 10px
+}
+
+.activitytag_stories .bck-dropdown.bck-dropdown-1 {
+    border: 3px solid #A10436;
+}
+
+.activitytag_stories .bck-dropdown-1 .bck-dropdown-titulo {
+    color: #A10436;
+}
+
+.activitytag_stories .bck-dropdown-1 .bck-dropdown-icon {
+    color: #A10436;
+}
+
+.activitytag_stories.bck-dropdown-1 .fa-chevron-up:before, 
+.activitytag_stories .bck-dropdown-1 .fa-chevron-down:before {
+    color: #A10436;
+}
+
+/*activitytag_pronunciation*/
+.activitytag_pronunciation .bck-title-1 {
+    color: #738A96;
+    border: 2px solid #738A96 !important;
+}
+
+.activitytag_pronunciation .bck-title-2 {
+    color: #738A96;
+}
+
+.activitytag_pronunciation .bck-enfasis-9 {
+    color: #738A96;
+    border: 2px solid #738A96 !important;
+}
+
+.activitytag_pronunciation .bck-enfasis-10 {
+    background-color: #738A96;
+}
+
+.activitytag_pronunciation .item-container .icon-hablar:before {
+    background-image: url(images/icono_hablar_morado.png);
+}
+
+.activitytag_pronunciation #actividad .player.audio {
+    background-image: url(images/icono_audio_gris.PNG);
+}
+
+.activitytag_pronunciation #actividad .content .cke_contents .bck-ol-1 li:before, 
+.activitytag_pronunciation #actividad .content .texto_curso .bck-ol-1 li:before, 
+.activitytag_pronunciation #actividad .content .workspace ul li .bck-ol-1 li:before, 
+.activitytag_pronunciation #actividad .popover-content .bck-ol-1 li:before {
+    color: #738A96;
+}
+
+.activitytag_pronunciation #actividad .content .cke_contents .bck-ul-1 li:before,
+.activitytag_pronunciation #actividad .content .texto_curso ul.bck-ul-1 li:before,
+.activitytag_pronunciation #actividad .popover-content ul.bck-ul-1 li:before,
+.activitytag_pronunciation #actividad .content .workspace ul li ul.bck-ul-1 li:before {
+    background-color: #E2B9D0;
+    margin-left: 0px;
+}
+
+.activitytag_pronunciation .bck-box.bck-box-5>.bck-title {
+    color: #738A96;
+}
+
+.activitytag_pronunciation .item-container .icon-musica:before {
+    background-image: url(images/icono_audio_gris.PNG);
+    margin-right: 10px
+}
+
+.activitytag_pronunciation .bck-dropdown.bck-dropdown-1 {
+    border: 3px solid #738A96;
+}
+
+.activitytag_pronunciation .bck-dropdown-1 .bck-dropdown-titulo {
+    color: #738A96;
+}
+
+.activitytag_pronunciation .bck-dropdown-1 .bck-dropdown-icon {
+    color: #738A96;
+}
+
+.activitytag_pronunciation.bck-dropdown-1 .fa-chevron-up:before, 
+.activitytag_pronunciation .bck-dropdown-1 .fa-chevron-down:before {
+    color: #738A96;
+}
+
+/*activitytag_verbzone*/
+.activitytag_verbzone .bck-title-1 {
+    color: #00B6ED;
+    border: 2px solid #00B6ED !important;
+}
+
+.activitytag_verbzone .bck-title-2 {
+    color: #00B6ED;
+}
+
+.activitytag_verbzone .bck-enfasis-9 {
+    color: #00B6ED;
+    border: 2px solid #00B6ED !important;
+}
+
+.activitytag_verbzone .bck-enfasis-10 {
+    background-color: #00B6ED;
+}
+
+.activitytag_verbzone .item-container .icon-hablar:before {
+    background-image: url(images/icono_hablar_morado.png);
+}
+
+.activitytag_verbzone #actividad .player.audio {
+    background-image: url(images/icono_audio_morado.png);
+}
+
+.activitytag_verbzone #actividad .content .cke_contents .bck-ol-1 li:before, 
+.activitytag_verbzone #actividad .content .texto_curso .bck-ol-1 li:before, 
+.activitytag_verbzone #actividad .content .workspace ul li .bck-ol-1 li:before, 
+.activitytag_verbzone #actividad .popover-content .bck-ol-1 li:before {
+    color: #00B6ED;
+}
+
+.activitytag_verbzone #actividad .content .cke_contents .bck-ul-1 li:before,
+.activitytag_verbzone #actividad .content .texto_curso ul.bck-ul-1 li:before,
+.activitytag_verbzone #actividad .popover-content ul.bck-ul-1 li:before,
+.activitytag_verbzone #actividad .content .workspace ul li ul.bck-ul-1 li:before {
+    background-color: #95D6F6;
+    margin-left: 0px;
+}
+
+.activitytag_verbzone .bck-box.bck-box-5>.bck-title {
+    color: #00B6ED;
+}
+
+.activitytag_verbzone .item-container .icon-musica:before {
+    background-image: url(images/icono_audio_morado.png);
+    margin-right: 10px
+}
+
+.activitytag_verbzone .bck-dropdown.bck-dropdown-1 {
+    border: 3px solid #00B6ED;
+}
+
+.activitytag_verbzone .bck-dropdown-1 .bck-dropdown-titulo {
+    color: #00B6ED;
+}
+
+.activitytag_verbzone .bck-dropdown-1 .bck-dropdown-icon {
+    color: #00B6ED;
+}
+
+.activitytag_verbzone.bck-dropdown-1 .fa-chevron-up:before, 
+.activitytag_verbzone .bck-dropdown-1 .fa-chevron-down:before {
+    color: #00B6ED;
+}
+
+/*activitytag_communication*/
+.activitytag_communication .bck-title-1 {
+    color: #0094C9;
+    border: 2px solid #0094C9 !important;
+}
+
+.activitytag_communication .bck-title-2 {
+    color: #0094C9;
+}
+
+.activitytag_communication .bck-enfasis-9 {
+    color: #0094C9;
+    border: 2px solid #0094C9 !important;
+}
+
+.activitytag_communication .bck-enfasis-10 {
+    background-color: #0094C9;
+}
+
+.activitytag_communication .item-container .icon-hablar:before {
+    background-image: url(images/icono_hablar_morado.png);
+}
+
+.activitytag_communication #actividad .player.audio {
+    background-image: url(images/icono_audio_morado.png);
+}
+
+.activitytag_communication #actividad .content .cke_contents .bck-ol-1 li:before, 
+.activitytag_communication #actividad .content .texto_curso .bck-ol-1 li:before, 
+.activitytag_communication #actividad .content .workspace ul li .bck-ol-1 li:before, 
+.activitytag_communication #actividad .popover-content .bck-ol-1 li:before {
+    color: #0094C9;
+}
+
+.activitytag_communication #actividad .content .cke_contents .bck-ul-1 li:before,
+.activitytag_communication #actividad .content .texto_curso ul.bck-ul-1 li:before,
+.activitytag_communication #actividad .popover-content ul.bck-ul-1 li:before,
+.activitytag_communication #actividad .content .workspace ul li ul.bck-ul-1 li:before {
+    background-color: #ADD6ED;
+    margin-left: 0px;
+}
+
+.activitytag_communication .bck-box.bck-box-5>.bck-title {
+    color: #0094C9;
+}
+
+.activitytag_communication .item-container .icon-musica:before {
+    background-image: url(images/icono_audio_morado.png);
+    margin-right: 10px
+}
+
+.activitytag_communication .bck-dropdown.bck-dropdown-1 {
+    border: 3px solid #0094C9;
+}
+
+.activitytag_communication .bck-dropdown-1 .bck-dropdown-titulo {
+    color: #0094C9;
+}
+
+.activitytag_communication .bck-dropdown-1 .bck-dropdown-icon {
+    color: #0094C9;
+}
+
+.activitytag_communication.bck-dropdown-1 .fa-chevron-up:before, 
+.activitytag_communication .bck-dropdown-1 .fa-chevron-down:before {
+    color: #0094C9;
+}
 
 /*querys*/
 
