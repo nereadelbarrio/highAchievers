@@ -1,4 +1,4 @@
-/*estilo highAchivers_>NOWYOU*/
+/*estilo highAchievers_>NOWYOU*/
 
 @charset "UTF-8";
 
@@ -290,7 +290,7 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover {
     padding-left: 10px
 }
 
-.highAchivers-navbar h3 {
+.highAchievers-navbar h3 {
     width: 75%;
     margin: auto auto 15px;
     font-size: 2rem;
@@ -348,7 +348,7 @@ body.is_app #actividad .class_slide {
     height: 1.8em
 }
 
-.highAchivers-navbar {
+.highAchievers-navbar {
     position: fixed;
     bottom: 0;
     left: 0;
@@ -359,18 +359,18 @@ body.is_app #actividad .class_slide {
     background: #545759
 }
 
-body.is_app .highAchivers-navbar {
+body.is_app .highAchievers-navbar {
     -webkit-transition: top .5s linear;
     -o-transition: top .5s linear;
     -moz-transition: top .5s linear;
     transition: top .5s linear
 }
 
-body.is_app .highAchivers-navbar.ocultar {
+body.is_app .highAchievers-navbar.ocultar {
     top: -136px
 }
 
-.highAchivers-navbar .navbar-content {
+.highAchievers-navbar .navbar-content {
     width: 100%;
     height: 100%;
     padding: 0 20px;
@@ -398,7 +398,7 @@ body.is_app .highAchivers-navbar.ocultar {
     height: 40px
 }
 
-.highAchivers-navbar .copyright {
+.highAchievers-navbar .copyright {
     color: #fff;
     line-height: 5rem
 }
@@ -1798,14 +1798,14 @@ td,th {
 
 /*unittag*/
 /*unittag_specialContent*/
-#list-units .unittag_specialcontent_highachivers:hover,
-#list-units .unittag_specialcontent_highachivers.active:not(.disabled),
-#list-units .unittag_specialcontent_highachivers:focus:not(.disabled) {
+#list-units .unittag_specialcontent_highAchievers:hover,
+#list-units .unittag_specialcontent_highAchievers.active:not(.disabled),
+#list-units .unittag_specialcontent_highAchievers:focus:not(.disabled) {
     background: #95ce26 !important;
 }
 
 
-.units ul#list-units .unittag_specialcontent_highachivers a .title:hover {
+.units ul#list-units .unittag_specialcontent_highAchievers a .title:hover {
     margin-left: 40px!important;
 }
 
@@ -2511,7 +2511,7 @@ td,th {
     }
 }
 
-.tmpux.content_type_clase_highAchivers .highAchivers-navbar.modo_revision {
+.tmpux.content_type_clase_highAchievers .highAchievers-navbar.modo_revision {
     top: 0;
     display: block!important
 }
