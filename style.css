@@ -1475,10 +1475,10 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     margin-left: -19px;
 }
 
-#actividad .content .cke_contents .bck-ul7  li:before,
-#actividad .content .texto_curso ul.bck-ul7  li:before,
+#actividad .content .cke_contents .bck-ul-7  li:before,
+#actividad .content .texto_curso ul.bck-ul-7  li:before,
 #actividad .popover-content ul.bck-ul-7 li:before,
-#actividad .content .workspace ul li ul.bck-ul7  li:before {
+#actividad .content .workspace ul li ul.bck-ul-7  li:before {
     color: #1d1d1b;
     content: "";
     height: 12px;
