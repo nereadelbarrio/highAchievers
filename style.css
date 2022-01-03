@@ -2795,6 +2795,12 @@ display: none;
 }
 
 /*iconos*/
+.item-container .icon:before {
+    height: 27px;
+    width: 41px;
+}
+
+
 .item-container .icon-hablar:before {
     background-image: url(images/icono_hablar_rojo.png);
     content: "";
@@ -2824,7 +2830,7 @@ display: none;
     background-image: url(images/icono_hablar_verde.png);
 }
 
-.activitytag_listening .item-container .icon-hablarNaranja:before {
+.item-container .icon-hablarNaranja:before {
     background-image: url(images/icono_hablar_naranja.PNG);
 }
 
@@ -4186,8 +4192,6 @@ td,th {
     }
 
 
-    .item-container .icon-nivel1:before,.item-container .icon-nivel2:before,.item-container .icon-nivel3:before,.item-container .icon-nivel4:before,.item-container .icon-nivel5:before,.item-container .icon-nivel6:before {
-        position: relative
     }
 
     .slide.crosswords-puzzle .enunciados {
