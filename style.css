@@ -2774,7 +2774,7 @@ display: none;
     BORDER: 3px solid #3092CF;
     border-radius: 20px 80px 20px 80px;
     border-left: 130px solid #3092CF;
-    padding: 30px;
+    padding: 17px 30px;
 }
 
 .bck-box.bck-box-28:after {
@@ -2802,6 +2802,16 @@ display: none;
 
 .bck-box.bck-box-28>.bck-content {
     padding-left: 0
+}
+
+.bck-box.bck-box-28>.bck-title {
+    color: #3092cf;
+    border: none;
+    font-family: 'ZineSlabDisOT-Medi';
+}
+
+.bck-box.bck-box-28>.bck-title p {
+    font-size:2.5rem;
 }
 
 .bck-title {
