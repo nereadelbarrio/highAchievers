@@ -2321,7 +2321,7 @@ display: none;
 .bck-box.bck-box-12>.bck-content {
     background-color: #ffffff;
     border: 1px solid #208FCF;
-    border-radius: 30px 30px 30px 30px;208FCF
+    border-radius: 30px 30px 30px 30px;
     padding: 8px 18px 8px 19px;
     width: auto;
 }
@@ -2767,6 +2767,54 @@ display: none;
     border-radius: 10px;
     padding: 6px 25px 6px 23px;
     border-radius: 0;
+}
+
+.bck-box.bck-box-28 {
+    position: relative;
+    BORDER: 3px solid #3092CF;
+    border-radius: 20px 80px 20px 80px;
+    border-left: 130px solid #3092CF;
+    padding: 30px;
+}
+
+.bck-box.bck-box-28:after {
+    display: none;
+    content: none
+}
+
+.bck-box.bck-box-28:before {
+    background-image: url(images/icono_caja_28.png);
+    content: " ";
+    position: absolute;
+    left: -120px;
+    z-index: 100;
+    padding: 41px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    top: 12px;
+    border: none;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+}
+
+
+.bck-box.bck-box-28>.bck-content {
+    padding-left: 0
+}
+
+.bck-title {
+    border-bottom: none
+}
+
+.bck-box-28>.bck-content {
+    text-align: left;
+    padding: 0;
+}
+
+.bck-box-28>.bck-content p {
+    font-size: 2.2rem
 }
 
 #actividad .content .iniciounidad .header .title h3 {
@@ -4181,7 +4229,7 @@ td,th {
         left: 0
     }
 
-    .bck-box.bck-box-12 .bck-title {
+    .bck-box.bck-box-12>.bck-title {
         color: #fff;
         background-color: #b83187;
         padding: 10px 10px 10px 12px;
