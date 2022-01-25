@@ -3342,7 +3342,7 @@ td,th {
 /*desplegable 6 */
 .bck-dropdown.bck-dropdown-6 {
     background-color: #ffffff;
-    border: 3px solid #006294;
+    border: 3px solid #B51F7E;
     margin-top: 10px;
     border-radius: 30px 10px 37px 10px;
     -webkit-border-radius: 30px 10px 37px 10px;
@@ -3354,7 +3354,7 @@ td,th {
     font-size: 2.5rem;
     font-weight: 600;
     padding-left: 10px;
-    color: #006294;
+    color: #B51F7E;
     font-family: 'StradaOT-Semibd';
 }
 
@@ -3362,7 +3362,7 @@ td,th {
     background-color: #fff;
     width: 25px;
     height: 10px;
-    color: #006294;
+    color: #B51F7E;
 }
 
 .bck-dropdown-6 .bck-dropdown-content {
@@ -3411,7 +3411,7 @@ td,th {
 /*desplegable 8 */
 .bck-dropdown.bck-dropdown-8 {
     background-color: #ffffff;
-    border: 3px solid #006F41;
+    border: 3px solid #E0C002;
     margin-top: 10px;
     border-radius: 30px 10px 37px 10px;
     -webkit-border-radius: 30px 10px 37px 10px;
@@ -3423,7 +3423,7 @@ td,th {
     font-size: 2.5rem;
     font-weight: 600;
     padding-left: 10px;
-    color: #006F41;
+    color: #E0C002;
     font-family: 'StradaOT-Semibd';
 }
 
@@ -3431,7 +3431,7 @@ td,th {
     background-color: #fff;
     width: 25px;
     height: 10px;
-    color: #006F41;
+    color: #E0C002;
 }
 
 .bck-dropdown-8 .bck-dropdown-content {
@@ -3441,39 +3441,6 @@ td,th {
     border-radius: 30px 10px 37px 10px;
     max-height: 800%;
 }
-
-/*desplegable 9 
-.bck-dropdown.bck-dropdown-9 {
-    background-color: #ffffff;
-    border: 3px solid #E0C002;
-    margin-top: 10px;
-    border-radius: 30px 10px 37px 10px;
-    -webkit-border-radius: 30px 10px 37px 10px;
-    -moz-border-radius: 30px 10px 37px 10px;
-}
-
-.bck-dropdown-9 .bck-dropdown-titulo {
-    font-size: 2.5rem;
-    font-weight: 600;
-    padding-left: 10px;
-    color: #E0C002;
-    font-family: 'StradaOT-Semibd';
-}
-
-.bck-dropdown-9 .bck-dropdown-icon {
-    background-color: #fff;
-    width: 25px;
-    height: 10px;
-    color: #E0C002;
-}
-
-.bck-dropdown-9 .bck-dropdown-content {
-    background-color: #fff;
-    border: none;
-    padding-left: 17px;
-    border-radius: 30px 10px 37px 10px;
-    max-height: 800%;
-}*/
 
 /*desplegable 9 */
 .bck-dropdown.bck-dropdown-9 {
