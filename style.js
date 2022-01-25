@@ -125,7 +125,18 @@
 				{ name: 'Icono Hablar Burdeos', element: 'span', attributes: { 'class': 'icon icon-hablarBurdeos' } },
 				{ name: 'Icono Musica', element: 'span', attributes: { 'class': 'icon icon-musica' } },
 
-				{ name: 'Desplegable 1', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown-1' } }
+				{ name: 'Desplegable 1', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown-1' } },
+				{ name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown-2' } },
+				{ name: 'Desplegable 3', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown-3' } },
+				{ name: 'Desplegable 4', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown-4' } },
+				{ name: 'Desplegable 5', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown-5' } },
+				{ name: 'Desplegable 6', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown-6' } },
+				{ name: 'Desplegable 7', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown-7' } },
+				{ name: 'Desplegable 8', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown-8' } },
+				{ name: 'Desplegable 9', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown-9' } },
+				{ name: 'Desplegable 10', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown-10' } },
+				{ name: 'Desplegable 11', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown-11' } },
+				{ name: 'Desplegable 12', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown-12' } }
 			]
 		},
 		slidesTitle: {},
