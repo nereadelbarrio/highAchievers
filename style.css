@@ -3206,7 +3206,7 @@ td,th {
 /*desplegable 12 */
 .bck-dropdown.bck-dropdown-12 {
     background-color: #ffffff;
-    border: 3px solid #738A96;
+    border: 3px solid #2793d0;
     margin-top: 10px;
     border-radius: 30px 10px 37px 10px;
     -webkit-border-radius: 30px 10px 37px 10px;
@@ -3218,7 +3218,7 @@ td,th {
     font-size: 2.5rem;
     font-weight: 600;
     padding-left: 10px;
-    color: #738A96;
+    color: #2793d0;
     font-family: 'StradaOT-Semibd';
 }
 
@@ -3226,7 +3226,7 @@ td,th {
     background-color: #fff;
     width: 25px;
     height: 10px;
-    color: #738A96;
+    color: #2793d0;
 }
 
 .bck-dropdown-12 .bck-dropdown-content {
