@@ -3203,10 +3203,10 @@ td,th {
     max-height: 800%;
 }
 
-/*desplegable 2*/
-.bck-dropdown.bck-dropdown-2 {
+/*desplegable 12 */
+.bck-dropdown.bck-dropdown-12 {
     background-color: #ffffff;
-    border: 3px solid #208FCF;
+    border: 3px solid #738A96;
     margin-top: 10px;
     border-radius: 30px 10px 37px 10px;
     -webkit-border-radius: 30px 10px 37px 10px;
@@ -3214,32 +3214,27 @@ td,th {
 
 }
 
-.bck-dropdown-2.bck-dropdown-titulo {
+.bck-dropdown-12 .bck-dropdown-titulo {
     font-size: 2.5rem;
     font-weight: 600;
     padding-left: 10px;
-    color: #208FCF;
+    color: #738A96;
     font-family: 'StradaOT-Semibd';
 }
 
-.bck-dropdown-2.bck-dropdown-icon {
+.bck-dropdown-12 .bck-dropdown-icon {
     background-color: #fff;
     width: 25px;
     height: 10px;
-    color: #208FCF;
+    color: #738A96;
 }
 
-.bck-dropdown-2.bck-dropdown-content {
+.bck-dropdown-12 .bck-dropdown-content {
     background-color: #fff;
     border: none;
     padding-left: 17px;
     border-radius: 30px 10px 37px 10px;
     max-height: 800%;
-}
-
-.bck-dropdown-1 .fa-chevron-up:before,
- .bck-dropdown-1 .fa-chevron-down:before {
-    font-size: 1.2rem;
 }
 
 /*desplegable 3*/
