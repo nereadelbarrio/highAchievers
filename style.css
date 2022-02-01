@@ -3719,6 +3719,10 @@ td,th {
     color: #208FCF;
 }
 
+.activitytag_vocabulary #actividad .player.audio {
+    background-image: url(images/icono_audio_azul.png);
+}
+
 /*activitytag_grammar*/
 .activitytag_grammar .bck-title-1 {
     color: #78AA42;
