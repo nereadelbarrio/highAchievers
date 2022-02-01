@@ -2397,7 +2397,7 @@ display: none;
 }
 
 .bck-box.bck-box-12:after {
-    background-image: url(images/icono_caja_02.png);
+    background-image: url(images/icono_caja_02azulB.png);
     content: " ";
     position: absolute;
     right: 30%;
@@ -2461,7 +2461,7 @@ display: none;
 }
 
 .bck-box.bck-box-14:after {
-    background-image: url(images/icono_caja_02.png);
+    background-image: url(images/icono_caja_02verdederecha.png);
     content: " ";
     position: absolute;
     right: 30%;
@@ -3699,7 +3699,7 @@ td,th {
 }
 
 .activitytag_vocabulary .bck-box.bck-box-3:after {
-    background-image: url(images/icono_caja_02azulB);
+    background-image: url(images/icono_caja_02verdederecha.png);
 }
 
 .activitytag_vocabulary .bck-dropdown.bck-dropdown-1 {
