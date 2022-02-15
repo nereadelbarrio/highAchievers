@@ -113,6 +113,7 @@
 				{ name: 'Caja 28', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-28' } },
 				{ name: 'Caja 29', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-29' } },
 				{ name: 'Caja 30', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-30' } },
+				{ name: 'Caja 31', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-31' } },
 
 				{ name: 'Tabla Color', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-2'} },
 				
