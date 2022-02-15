@@ -2104,6 +2104,13 @@ counter-increment: bck-li-counter;
     font-size: 2.2rem
 }
 
+.bck-box.bck-box-1>.bck-title {
+    color: inherit;
+    font-size: 26px;
+    border: none;
+    font-family: 'ZineSlabDisOT-Medi';
+}
+
 .bck-box.bck-box-2 {
     margin-top: 15px;
     border: none;
@@ -2940,16 +2947,16 @@ display: none;
 }
 
 .bck-box.bck-box-31:after {
-background-image: url(images/icono_caja_01a.png);
+    background-image: url(images/icono_caja_01a.png);
     content: " ";
     position: absolute;
-    left: -120px;
-    z-index: 100;
-    padding: 75px 0;
+    left: -112px;
+    z-index: 10;
+    padding: 57px 42px 66px 7px;
     background-repeat: no-repeat;
     background-size: contain;
     display: inline-block;
-    top: 126px;
+    top: 107px;
     border: none;
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
@@ -2973,6 +2980,12 @@ background-image: url(images/icono_caja_01a.png);
     border-radius: 0;
 }
 
+.bck-box.bck-box-31>.bck-title {
+    color: inherit;
+    font-size: 26px;
+    border: none;
+    font-family: 'ZineSlabDisOT-Medi';
+}
 
 .bck-box.bck-box-31>.bck-content {
     padding-left: 0
