@@ -304,8 +304,7 @@ body.is_app #actividad .class_slide {
 }
 
 #actividad .content .header .title h3 {
-        color: #fff;
-    background: #958b83;
+    color: #4b4b4b;
     width: 100%;
     padding: 13px;
     font-weight: 700;
@@ -3062,7 +3061,7 @@ display: none;
 }
 
 .item-container .icon-hablarBurdeos:before {
-    background-image: url(images/icono_audio_burdeos.PNG);
+    background-image: url(images/icono_hablar_burdeos.PNG);
 }
 
 
