@@ -209,22 +209,7 @@ p {
 }
 
 #indice .unit-content .header .title {
-    color: #333;
-    background: hsla(0,0%,100%,.8392156862745098);
-    font-size: 30px;
-    font-weight: 700;
-    line-height: 34px;
-    padding: 5px 20px;
-    height: 50px;
-    margin: 5px 140px 20px 8px;
-    z-index: 1;
-    display: block;
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-    -o-text-overflow: ellipsis;
-    text-overflow: ellipsis
+    display: none;
 }
 
 #indice .unit-content .actividades .item .nota {
