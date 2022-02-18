@@ -2131,7 +2131,7 @@ counter-increment: bck-li-counter;
 
 .bck-box.bck-box-2>.bck-content {
     background-color: #ffffff;
-    border: 1px solid #ec6f59;
+    border: 2px solid #ec6f59;
     border-radius: 30px 30px 30px 30px;
     padding: 8px 18px 8px 19px;
     width: auto;
@@ -2163,7 +2163,7 @@ counter-increment: bck-li-counter;
 
 .bck-box.bck-box-3>.bck-content {
     background-color: #ffffff;
-    border: 1px solid #ec6f59;
+    border: 2px solid #ec6f59;
     border-radius: 30px 30px 30px 30px;
     padding: 8px 18px 8px 19px;
     width: auto;
