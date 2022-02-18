@@ -3720,16 +3720,16 @@ td,th {
 }
 
 .slide_main input:focus {
-    border-color: #5aaa7f99;
+    border-color: #007c39;
 }
 
 /*unittag*/
-/*unittag_specialContent*/
+/*unittag_specialContent
 #list-units .unittag_specialcontent_highAchievers:hover,
 #list-units .unittag_specialcontent_highAchievers.active:not(.disabled),
 #list-units .unittag_specialcontent_highAchievers:focus:not(.disabled) {
     background: #95ce26 !important;
-}
+}*/
 
 
 .units ul#list-units .unittag_specialcontent_highAchievers a .title:hover {
