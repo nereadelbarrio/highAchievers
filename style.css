@@ -2776,7 +2776,7 @@ display: none;
 }
 
 .bck-box.bck-box-24:after {
-    background-image: url(images/icono_caja_02verdeOscuroderecha);
+    background-image: url(images/icono_caja_02verdeOscuro.png);
     content: " ";
     position: absolute;
     right: 30%;
