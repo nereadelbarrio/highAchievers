@@ -2373,7 +2373,7 @@ display: none;
 
 .bck-box.bck-box-11>.bck-content {
     background-color: #ffffff;
-    border: 1px solid #208FCF;
+    border: 2px solid #208FCF;
     border-radius: 30px 30px 30px 30px;
     padding: 8px 18px 8px 19px;
     width: auto;
@@ -2405,7 +2405,7 @@ display: none;
 
 .bck-box.bck-box-12>.bck-content {
     background-color: #ffffff;
-    border: 1px solid #208FCF;
+    border: 2px solid #208FCF;
     border-radius: 30px 30px 30px 30px;
     padding: 8px 18px 8px 19px;
     width: auto;
@@ -2437,7 +2437,7 @@ display: none;
 
 .bck-box.bck-box-13>.bck-content {
     background-color: #ffffff;
-    border: 1px solid #78AA42;
+    border: 2px solid #9eb554;
     border-radius: 30px 30px 30px 30px;
     padding: 8px 18px 8px 19px;
     width: auto;
@@ -2469,7 +2469,7 @@ display: none;
 
 .bck-box.bck-box-14>.bck-content {
     background-color: #ffffff;
-    border: 1px solid #78AA42;
+    border: 2px solid #9eb554;
     border-radius: 30px 30px 30px 30px;
     padding: 8px 18px 8px 19px;
     width: auto;
@@ -2501,14 +2501,14 @@ display: none;
 
 .bck-box.bck-box-15>.bck-content {
     background-color: #ffffff;
-    border: 1px solid #E79F25;
+    border: 2px solid #E79F25;
     border-radius: 30px 30px 30px 30px;
     padding: 8px 18px 8px 19px;
     width: auto;
 }
 
 .bck-box.bck-box-15:after {
-    background-image: url(images/icono_caja_02verde.png);
+    background-image: url(images/icono_caja_02naranja.png);
     content: " ";
     position: absolute;
     left: 10%;
@@ -2533,14 +2533,14 @@ display: none;
 
 .bck-box.bck-box-16>.bck-content {
     background-color: #ffffff;
-    border: 1px solid #E79F25;
+    border: 2px solid #E79F25;
     border-radius: 30px 30px 30px 30px;
     padding: 8px 18px 8px 19px;
     width: auto;
 }
 
 .bck-box.bck-box-16:after {
-    background-image: url(images/icono_caja_02.png);
+    background-image: url(images/icono_caja_02naranjaderecha.png);
     content: " ";
     position: absolute;
     right: 30%;
@@ -2565,14 +2565,14 @@ display: none;
 
 .bck-box.bck-box-17>.bck-content {
     background-color: #ffffff;
-    border: 1px solid #006294;
+    border: 2px solid #006294;
     border-radius: 30px 30px 30px 30px;
     padding: 8px 18px 8px 19px;
     width: auto;
 }
 
 .bck-box.bck-box-17:after {
-    background-image: url(images/icono_caja_02verde.png);
+    background-image: url(images/icono_caja_02azulOscuro.png);
     content: " ";
     position: absolute;
     left: 10%;
@@ -2597,14 +2597,14 @@ display: none;
 
 .bck-box.bck-box-18>.bck-content {
     background-color: #ffffff;
-    border: 1px solid #006294;
+    border: 2px solid #006294;
     border-radius: 30px 30px 30px 30px;
     padding: 8px 18px 8px 19px;
     width: auto;
 }
 
 .bck-box.bck-box-18:after {
-    background-image: url(images/icono_caja_02.png);
+    background-image: url(images/icono_caja_02azulOscuroderecha.png);
     content: " ";
     position: absolute;
     right: 30%;
@@ -2651,7 +2651,7 @@ display: none;
 
 .bck-box.bck-box-20>.bck-content {
     background-color: #ffffff;
-    border: 1px solid #B51F7E;
+    border: 2px solid #B51F7E;
     border-radius: 30px 30px 30px 30px;
     padding: 8px 18px 8px 19px;
     width: auto;
@@ -2683,7 +2683,7 @@ display: none;
 
 .bck-box.bck-box-21>.bck-content {
     background-color: #ffffff;
-    border: 1px solid #B51F7E;
+    border: 2px solid #B51F7E;
     border-radius: 30px 30px 30px 30px;
     padding: 8px 18px 8px 19px;
     width: auto;
@@ -2737,7 +2737,7 @@ display: none;
 
 .bck-box.bck-box-23>.bck-content {
     background-color: #ffffff;
-    border: 1px solid #006F41;
+    border: 2px solid #006F41;
     border-radius: 30px 30px 30px 30px;
     padding: 8px 18px 8px 19px;
     width: auto;
@@ -2769,7 +2769,7 @@ display: none;
 
 .bck-box.bck-box-24>.bck-content {
     background-color: #ffffff;
-    border: 1px solid #006F41;
+    border: 2px solid #006F41;
     border-radius: 30px 30px 30px 30px;
     padding: 8px 18px 8px 19px;
     width: auto;
