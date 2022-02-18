@@ -2690,7 +2690,7 @@ display: none;
 }
 
 .bck-box.bck-box-21:after {
-    background-image: url(images/icono_caja_02.png);
+    background-image: url(images/icono_caja_02moradoderecha.png);
     content: " ";
     position: absolute;
     right: 30%;
@@ -2744,7 +2744,7 @@ display: none;
 }
 
 .bck-box.bck-box-23:after {
-    background-image: url(images/icono_caja_02morado.png);
+    background-image: url(images/icono_caja_02verdeOscuro.png);
     content: " ";
     position: absolute;
     left: 10%;
@@ -2776,7 +2776,7 @@ display: none;
 }
 
 .bck-box.bck-box-24:after {
-    background-image: url(images/icono_caja_02.png);
+    background-image: url(images/icono_caja_02verdeOscuroderecha);
     content: " ";
     position: absolute;
     right: 30%;
