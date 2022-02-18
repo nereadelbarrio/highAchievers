@@ -1029,6 +1029,32 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     margin-left: -25px;
 }
 
+
+.bck-title-28 {
+    color: #006F41;
+    font-size: 2.5rem;
+    text-align: left;
+    font-family: 'ZineSlabDisOT-Medi';
+    padding-top: 10px;
+    font-weight: 400;
+}
+
+.bck-title-28:before {
+    content: "";
+    background-image: url(images/icono_title_05.jpg);
+    background-size: contain;
+    background-repeat: repeat;
+    z-index: 100;
+    width: 28%;
+    padding: 10px 11px 10px 24px;
+    display: inline-block;
+    color: #fff;
+    -moz-border-radius: 20px 0 0 50px;
+    border-radius: 20px 0 0 50px;
+    margin-right: 6px;
+    vertical-align: sub;
+}
+
 /*enfasis*/
 /*.bck-enfasis {
     font-size: 5rem;
