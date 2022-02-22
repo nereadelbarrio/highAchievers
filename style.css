@@ -227,7 +227,6 @@ p {
 
 #indice .units ul li.active:not(.disabled),
 #indice .units ul li:focus:not(.disabled) {
-    background: #139dc5;
     border-radius: 30px 10px 37px 10px;
     background: #007C39;
         border-radius: 30px 10px 37px 10px;
@@ -3722,6 +3721,13 @@ td,th {
 .slide_main input:focus {
     border-color: #007c39;
 }
+
+/*****************coursetags************************/
+/*****coursetag_a2highAchievers*******/
+.coursetag_a2highAchievers #indice .units ul li {
+    background: #669d67;
+}
+
 
 /*unittag*/
 /*unittag_specialContent
