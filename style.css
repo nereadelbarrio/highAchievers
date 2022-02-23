@@ -3732,7 +3732,6 @@ td,th {
     background: #FFCC01 !important;
 }
 
-
 .coursetag_a2highachievers #indice .units ul li:focus:not(.disabled){
     background: #FFCC01 !important;
 }
@@ -3791,7 +3790,8 @@ background: #FFCC01;
 }
 
 .coursetag_a2highachievers #book-index #indice .units ul li.active a, 
-.coursetag_a2highachievers #book-index .col-main, body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover {
+.coursetag_a2highachievers #book-index .col-main, 
+.coursetag_a2highachievers body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover {
     background: #FFCC01;
 }
 
