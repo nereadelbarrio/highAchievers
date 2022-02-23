@@ -3185,9 +3185,9 @@ td,th {
     font-size: 14px;
 }
 
-.btn-group>.btn:first-child {
+/*.btn-group>.btn:first-child {
     background-color: #007c39;
-}
+}*/
 
 .btn-primary,.btn-primary.disabled {
     background-color: #ea5b0c
@@ -3723,7 +3723,7 @@ td,th {
 }
 
 /*****************coursetags************************/
-/*****coursetag_a2highachievers*******/
+/*****coursetag_a2highachievers*******
 .coursetag_a2highachievers #indice .units ul li.active:not(.disabled){
     background: #FFCC01 !important;
 }
@@ -3800,6 +3800,69 @@ background: #FFCC01;
 .coursetag_a2highachievers #book-index #indice .unit-content .actividades .item.current{
     background: #FFCC01 !important;
 }
+*/
+
+/*toc*/
+.coursetag_a2highachievers #indice .units ul li.active:not(.disabled){
+    background: #FFCC01 !important;
+}
+
+.coursetag_a2highachievers #indice .units ul li:hover:not(.disabled){
+    background: #FFCC01 !important;
+}
+
+
+.coursetag_a2highachievers #indice .units ul li:focus:not(.disabled){
+    background: #7ba21b !important;
+}
+
+.coursetag_a2highachievers #indice .units ul li.hover:not(.disabled), 
+.coursetag_a2highachievers body:not(.isTablet) #indice .units ul li:hover:not(.disabled), 
+.coursetag_a2highachievers #indice .units ul li:hover:not(.disabled){
+    background: #FFCC01 !important;
+}
+
+.coursetag_a2highachievers body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover, 
+.coursetag_a2highachievers #book-index #indice .unit-content .actividades .item.active, 
+.coursetag_a2highachievers #book-index #indice .unit-content .actividades .item.current{
+    background: #FFCC01 !important;
+}
+
+
+/*índice lateral*/
+.coursetag_a2highachievers  #indice .unit-content .actividades .item:active, 
+.coursetag_a2highachievers  #indice .unit-content .actividades .item.active, 
+.coursetag_a2highachievers #indice .unit-content .actividades .item.current{
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.coursetag_a2highachievers #book-index #indice .unit-content .actividades .item:hover, 
+.coursetag_a2highachievers #indice .unit-content .actividades .item.active, 
+.coursetag_a2highachievers #indice .unit-content .actividades .item.current{
+    border-bottom: 2px solid #FFCC01 !important;
+}
+
+.coursetag_a2highachievers  #indice .unit-content .actividades .item:focus, 
+.coursetag_a2highachievers #indice .unit-content .actividades .item.active, 
+.coursetag_a2highachievers #indice .unit-content .actividades .item.current{
+    border-bottom: 2px solid #FFCC01;
+}
+
+.coursetag_a2highachievers #book-index .col-main{
+    background: #FFCC01;
+}
+
+/*enlaces*/
+.coursetag_a2highachievers #indice .actividades a:hover, 
+.coursetag_a2highachievers #indice .actividades a:active, 
+.coursetag_a2highachievers #indice .actividades a:focus{
+    color: #FFCC01;
+}
+
+.coursetag_a2highachievers .btn-primary,
+.coursetag_a2highachievers .btn-primary.disabled {
+    background: #FFCC01 !important;
+}
 
 /*****coursetag_a2plushighachievers*******/
 .coursetag_a2plushighachievers #indice .units ul li.active:not(.disabled){
@@ -3832,7 +3895,8 @@ background: #FFCC01;
     color: #00A9DD;
 }
 
-.coursetag_a2plushighachievers .btn-group>.btn:first-child {
+.coursetag_a2plushighachievers .btn-primary,
+.coursetag_a2plushighachievers .btn-primary.disabled {
     background: #00A9DD !important;
 }
 
@@ -3871,7 +3935,7 @@ background: #00A9DD;
 .coursetag_a2plushighachievers #book-index #indice .units ul li.active a, 
 .coursetag_a2plushighachievers #book-index .col-main, 
 .coursetag_a2plushighachiever body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover {
-    background: #00A9DD;
+    background: #00A9DD !important;
 }
 
 .coursetag_a2plushighachievers body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover, 
