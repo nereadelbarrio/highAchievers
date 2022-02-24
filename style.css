@@ -400,9 +400,9 @@ body.is_app .highAchievers-navbar.ocultar {
 .navbar-content .logo-publisher {
     display: inline-block;
     position: absolute;
-    top: 0;
+    top: -5px;
     left: 0;
-    width: 100px;
+    width: 48px;
     height: 44px;
     background: url(images/highAchievers_logo.png) 0 0 no-repeat;
     -webkit-background-size: contain;
@@ -410,7 +410,10 @@ body.is_app .highAchievers-navbar.ocultar {
          -o-background-size: contain;
             background-size: contain;
     background-position: center center;
+}
 
+.content_type_curso_highAchievers.content_type_clase_highAchievers .libro-left ul li .title:before {
+    opacity: 0;
 }
 
 .highAchievers-navbar .copyright {
