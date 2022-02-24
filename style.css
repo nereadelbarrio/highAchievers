@@ -3883,6 +3883,15 @@ td,th {
     background: #00A9DD;
 }
 
+.coursetag_a2plushighachievers #book-index #indice .units ul li.active a,
+.coursetag_a2plushighachievers #book-index .col-main {
+    background: #00A9DD;
+}
+
+.coursetag_a2plushighachievers body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover {
+    background: inherit;
+}
+
 /*enlaces*/
 .coursetag_a2plushighachievers #indice .actividades a:hover, 
 .coursetag_a2plushighachievers #indice .actividades a:active, 
@@ -3946,6 +3955,15 @@ td,th {
     background: #F9951B;
 }
 
+.coursetag_b1highachievers #book-index #indice .units ul li.active a,
+.coursetag_b1highachievers #book-index .col-main {
+    background: #F9951B;
+}
+
+.coursetag_b1highachievers body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover {
+    background: inherit;
+}
+
 /*enlaces*/
 .coursetag_b1highachievers #indice .actividades a:hover, 
 .coursetag_b1highachievers #indice .actividades a:active, 
@@ -4007,6 +4025,15 @@ td,th {
 
 .coursetag_b1plushighachievers #book-index .col-main{
     background: #93C639;
+}
+
+.coursetag_b1plushighachievers #book-index #indice .units ul li.active a,
+.coursetag_b1plushighachievers #book-index .col-main {
+    background: #93C639;
+}
+
+.coursetag_b1plushighachievers body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover {
+    background: inherit;
 }
 
 /*enlaces*/
@@ -4073,6 +4100,15 @@ td,th {
     background: #E284B6;
 }
 
+.coursetag_b2highachievers #book-index #indice .units ul li.active a,
+.coursetag_b2highachievers #book-index .col-main {
+    background: #E284B6;
+}
+
+.coursetag_b2highachievers body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover {
+    background: inherit;
+}
+
 /*enlaces*/
 .coursetag_b2highachievers #indice .actividades a:hover, 
 .coursetag_b2highachievers #indice .actividades a:active, 
@@ -4135,6 +4171,16 @@ td,th {
 .coursetag_b2plushighachievers #book-index .col-main{
     background: #4CC1D3;
 }
+
+.coursetag_b2plushighachievers #book-index #indice .units ul li.active a,
+.coursetag_b2plushighachievers #book-index .col-main {
+    background: #4CC1D3;
+}
+
+.coursetag_b2plushighachievers body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover {
+    background: inherit;
+}
+
 
 /*enlaces*/
 .coursetag_b2plushighachievers #indice .actividades a:hover, 
