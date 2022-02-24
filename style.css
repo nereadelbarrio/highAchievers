@@ -402,7 +402,7 @@ body.is_app .highAchievers-navbar.ocultar {
     position: absolute;
     top: -5px;
     left: 0;
-    width: 48px;
+    width: 98px;
     height: 44px;
     background: url(images/highAchievers_logo.png) 0 0 no-repeat;
     -webkit-background-size: contain;
