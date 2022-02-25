@@ -4631,13 +4631,7 @@ td,th {
     background-color: #006F41;
 }
 
-.activitytag_writing .item-container .icon-hablar:before {
-    background-image: url(images/icono_hablar_morado.png);
-}
 
-.activitytag_writing #actividad .player.audio {
-    background-image: url(images/icono_audio_morado.png);
-}
 
 .activitytag_writing #actividad .content .cke_contents .bck-ol-1 li:before, 
 .activitytag_writing #actividad .content .texto_curso .bck-ol-1 li:before, 
@@ -4908,14 +4902,6 @@ td,th {
     background-color: #00B6ED;
 }
 
-.activitytag_verbzone .item-container .icon-hablar:before {
-    background-image: url(images/icono_hablar_morado.png);
-}
-
-.activitytag_verbzone #actividad .player.audio {
-    background-image: url(images/icono_audio_morado.png);
-}
-
 .activitytag_verbzone #actividad .content .cke_contents .bck-ol-1 li:before, 
 .activitytag_verbzone #actividad .content .texto_curso .bck-ol-1 li:before, 
 .activitytag_verbzone #actividad .content .workspace ul li .bck-ol-1 li:before, 
@@ -4976,13 +4962,6 @@ td,th {
     background-color: #0094C9;
 }
 
-.activitytag_communication .item-container .icon-hablar:before {
-    background-image: url(images/icono_hablar_morado.png);
-}
-
-.activitytag_communication #actividad .player.audio {
-    background-image: url(images/icono_audio_morado.png);
-}
 
 .activitytag_communication #actividad .content .cke_contents .bck-ol-1 li:before, 
 .activitytag_communication #actividad .content .texto_curso .bck-ol-1 li:before, 
