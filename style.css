@@ -3798,13 +3798,13 @@ td,th {
 .coursetag_a2highachievers #book-index #indice .unit-content .actividades .item:hover, 
 .coursetag_a2highachievers #indice .unit-content .actividades .item.active, 
 .coursetag_a2highachievers #indice .unit-content .actividades .item.current{
-    border-bottom: 2px solid #FFCC01 !important;
+    border-bottom: 2px solid #e5e5e5 !important;
 }
 
 .coursetag_a2highachievers  #indice .unit-content .actividades .item:focus, 
 .coursetag_a2highachievers #indice .unit-content .actividades .item.active, 
 .coursetag_a2highachievers #indice .unit-content .actividades .item.current{
-    border-bottom: 2px solid #FFCC01;
+    border-bottom: 2px solid #e5e5e5;
 }
 
 .coursetag_a2highachievers #book-index .col-main{
@@ -3870,13 +3870,13 @@ td,th {
 .coursetag_a2plushighachievers #book-index #indice .unit-content .actividades .item:hover, 
 .coursetag_a2plushighachievers #indice .unit-content .actividades .item.active, 
 .coursetag_a2plushighachievers #indice .unit-content .actividades .item.current{
-    border-bottom: 2px solid #00A9DD !important;
+    border-bottom: 1px solid #e5e5e5 !important;
 }
 
 .coursetag_a2plushighachievers  #indice .unit-content .actividades .item:focus, 
 .coursetag_a2plushighachievers #indice .unit-content .actividades .item.active, 
 .coursetag_a2plushighachievers #indice .unit-content .actividades .item.current{
-    border-bottom: 2px solid #00A9DD;
+    bborder-bottom: 1px solid #e5e5e5;
 }
 
 .coursetag_a2plushighachievers #book-index .col-main{
@@ -3942,13 +3942,13 @@ td,th {
 .coursetag_b1highachievers #book-index #indice .unit-content .actividades .item:hover, 
 .coursetag_b1highachievers #indice .unit-content .actividades .item.active, 
 .coursetag_b1highachievers #indice .unit-content .actividades .item.current{
-    border-bottom: 2px solid #F9951B !important;
+    border-bottom: 2px solid #e5e5e5 !important;
 }
 
 .coursetag_b1highachievers  #indice .unit-content .actividades .item:focus, 
 .coursetag_b1highachievers #indice .unit-content .actividades .item.active, 
 .coursetag_b1highachievers #indice .unit-content .actividades .item.current{
-    border-bottom: 2px solid #F9951B;
+    border-bottom: 2px solid #e5e5e5;
 }
 
 .coursetag_b1highachievers #book-index .col-main{
@@ -4014,13 +4014,13 @@ td,th {
 .coursetag_b1plushighachievers #book-index #indice .unit-content .actividades .item:hover, 
 .coursetag_b1plushighachievers #indice .unit-content .actividades .item.active, 
 .coursetag_b1plushighachievers #indice .unit-content .actividades .item.current{
-    border-bottom: 2px solid #93C639 !important;
+    border-bottom: 2px solid #e5e5e5 !important;
 }
 
 .coursetag_b1plushighachievers  #indice .unit-content .actividades .item:focus, 
 .coursetag_b1plushighachievers #indice .unit-content .actividades .item.active, 
 .coursetag_b1plushighachievers #indice .unit-content .actividades .item.current{
-    border-bottom: 2px solid #93C639;
+    border-bottom: 2px solid #e5e5e5;
 }
 
 .coursetag_b1plushighachievers #book-index .col-main{
@@ -4087,13 +4087,13 @@ td,th {
 .coursetag_b2highachievers #book-index #indice .unit-content .actividades .item:hover, 
 .coursetag_b2highachievers #indice .unit-content .actividades .item.active, 
 .coursetag_b2highachievers #indice .unit-content .actividades .item.current{
-    border-bottom: 2px solid #E284B6 !important;
+    border-bottom: 2px solid #e5e5e5 !important;
 }
 
 .coursetag_b2highachievers  #indice .unit-content .actividades .item:focus, 
 .coursetag_b2highachievers #indice .unit-content .actividades .item.active, 
 .coursetag_b2highachievers #indice .unit-content .actividades .item.current{
-    border-bottom: 2px solid #E284B6;
+    border-bottom: 2px solid #e5e5e5;
 }
 
 .coursetag_b2highachievers #book-index .col-main{
@@ -4159,13 +4159,13 @@ td,th {
 .coursetag_b2plushighachievers #book-index #indice .unit-content .actividades .item:hover, 
 .coursetag_b2plushighachievers #indice .unit-content .actividades .item.active, 
 .coursetag_b2plushighachievers #indice .unit-content .actividades .item.current{
-    border-bottom: 2px solid #4CC1D3 !important;
+    border-bottom: 2px solid #e5e5e5 !important;
 }
 
 .coursetag_b2plushighachievers  #indice .unit-content .actividades .item:focus, 
 .coursetag_b2plushighachievers #indice .unit-content .actividades .item.active, 
 .coursetag_b2plushighachievers #indice .unit-content .actividades .item.current{
-    border-bottom: 2px solid #4CC1D3;
+    border-bottom: 2px solid #e5e5e5;
 }
 
 .coursetag_b2plushighachievers #book-index .col-main{
