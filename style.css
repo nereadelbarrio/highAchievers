@@ -2941,7 +2941,7 @@ display: none;
 
 
 .bck-box.bck-box-29 {
-    padding: 30px 30px 7px 30px;
+    padding: 11px 30px 7px 30px;
         background-color: #DAEDF8;
         border-radius: 155px 55px 119px 67px/55px 125px 31px 111px;
 }
@@ -2960,6 +2960,10 @@ display: none;
     border-radius: 10px;
     padding: 6px 25px 6px 23px;
     border-radius: 0;
+}
+
+.bck-box.bck-box-29>.bck-content p {
+    text-align: center !important;
 }
 
 .bck-box.bck-box-30 {
