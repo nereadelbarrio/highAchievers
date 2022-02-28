@@ -465,6 +465,10 @@ li img {
     padding: 0 5px
 }
 
+#actividad .workspace.multiple-choice .opcion p {
+    text-align: inherit;
+}
+
 #actividad .workspace.multiplechoice_horizontal>ul.move-text {
     text-align: center
 }
