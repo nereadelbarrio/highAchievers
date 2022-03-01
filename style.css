@@ -3052,6 +3052,158 @@ display: none;
     font-size: 2.2rem
 }
 
+.bck-box.bck-box-32 {
+    background-color: #ffffff;
+    border: 2px solid #009dd1;
+    border-radius: 0;
+    display: block;
+    line-height: 1.43em;
+    padding: 10px 20px;
+}
+
+.bck-box.bck-box-32>.bck-content {
+    background-color: #ffffff;
+}
+
+.bck-box.bck-box-32>.bck-title {
+    background: #009dd1;
+    font-family: 'ZineSlabDisOT-Medi';
+    margin-top: -10px;
+    width: 105.8%;
+    padding: 0px 0px 0px 31px;
+    margin-left: -21px;
+    color: #fff;
+}
+
+.bck-box.bck-box-32>.bck-title:before {
+    background-color: #009dd1;
+    padding: 0px 12px 0px 10px;
+    border: 2px solid #fff;
+    font-family: 'FontAwesome';
+    font-weight: 200;
+    content: '\f129';
+    margin: -7px 0px -1px -41px;
+    color: #fff;
+    position: absolute;
+}
+
+.bck-box.bck-box-32>.bck-title p {
+    font-size: 25px;
+}
+
+
+.bck-box.bck-box-33 {
+    position: relative;
+    BORDER: 3px solid #CBA93E;
+    border-radius: 20px 80px 20px 80px;
+    border-left: 130px solid #CBA93E;
+    padding: 30px;
+}
+
+.bck-box.bck-box-33:after {
+    display: none;
+    content: none
+}
+
+.bck-box.bck-box-33:before {
+    background-image: url(images/icono_caja_32.png);
+    content: " ";
+    position: absolute;
+    left: -120px;
+    z-index: 100;
+    padding: 41px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    top: 12px;
+    border: none;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+}
+
+
+.bck-box.bck-box-33>.bck-content {
+    padding-left: 0
+}
+
+.bck-title {
+    border-bottom: none
+}
+
+.bck-box-33>.bck-content {
+    text-align: left;
+    padding: 0;
+}
+
+.bck-box-33>.bck-content p {
+    font-size: 2.2rem
+}
+
+.bck-box.bck-box-33>.bck-title {
+    color: inherit;
+    font-size: 26px;
+    border: none;
+    font-family: 'ZineSlabDisOT-Medi';
+}
+
+.bck-box.bck-box-34 {
+    position: relative;
+    BORDER: 3px solid #A72160;
+    border-radius: 20px 80px 20px 80px;
+    border-left: 130px solid #A72160;
+    padding: 30px;
+}
+
+.bck-box.bck-box-34:after {
+    display: none;
+    content: none
+}
+
+.bck-box.bck-box-34:before {
+    background-image: url(images/icono_caja_33a.png);
+    content: " ";
+    position: absolute;
+    left: -120px;
+    z-index: 100;
+    padding: 41px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    top: 12px;
+    border: none;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+}
+
+
+.bck-box.bck-box-34>.bck-content {
+    padding-left: 0
+}
+
+.bck-title {
+    border-bottom: none
+}
+
+.bck-box-34>.bck-content {
+    text-align: left;
+    padding: 0;
+}
+
+.bck-box-34>.bck-content p {
+    font-size: 2.2rem
+}
+
+.bck-box-34>.bck-title {
+    color: #ffffff;
+    width: fit-content;
+    position: relative;
+    top: 50px;
+    left: -132px;
+    font-family: 'ZineSlabDisOT-Medi';
+}
+
 
 #actividad .content .iniciounidad .header .title h3 {
     margin-top: 150px
