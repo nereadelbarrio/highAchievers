@@ -115,6 +115,9 @@
 				{ name: 'Caja 29', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-29' } },
 				{ name: 'Caja 30', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-30' } },
 				{ name: 'Caja 31', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-31' } },
+				{ name: 'Caja 32', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-32' } },
+				{ name: 'Caja 33', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-33' } },
+				{ name: 'Caja 34', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-34' } },
 
 				{ name: 'Tabla Color', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-2'} },
 				
@@ -130,7 +133,6 @@
 				{ name: 'Icono Musica', element: 'span', attributes: { 'class': 'icon icon-musica' } },
 
 				{ name: 'Desplegable 01', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown-1' } },
-				{ name: 'Desplegable 02', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown-2' } },
 				{ name: 'Desplegable 03', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown-3' } },
 				{ name: 'Desplegable 04', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown-4' } },
 				{ name: 'Desplegable 05', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown-5' } },
