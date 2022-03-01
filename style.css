@@ -3124,7 +3124,8 @@ display: none;
 
 
 .bck-box.bck-box-33>.bck-content {
-    padding-left: 0
+    padding-left: 0;
+    margin-top: -55px;
 }
 
 .bck-title {
@@ -3185,7 +3186,8 @@ display: none;
 
 
 .bck-box.bck-box-34>.bck-content {
-    padding-left: 0
+    padding-left: 0;
+    margin-top: -55px;
 }
 
 .bck-title {
