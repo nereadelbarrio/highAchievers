@@ -3109,9 +3109,9 @@ display: none;
     background-image: url(images/icono_caja_32a.png);
     content: " ";
     position: absolute;
-    left: -120px;
+    left: -115px;
     z-index: 100;
-    padding: 41px;
+    padding: 41px 51PX 0PX 40px;
     background-repeat: no-repeat;
     background-size: contain;
     display: inline-block;
@@ -3140,11 +3140,17 @@ display: none;
     font-size: 2.2rem
 }
 
-.bck-box.bck-box-33>.bck-title {
-    color: inherit;
-    font-size: 26px;
-    border: none;
+.bck-box-33>.bck-title {
+    color: #ffffff;
+    width: fit-content;
+    position: relative;
+    top: 20px;
+    left: -134px;
     font-family: 'ZineSlabDisOT-Medi';
+}
+
+.bck-box-33>.bck-title p {
+    font-size: 30px;
 }
 
 .bck-box.bck-box-34 {
@@ -3166,7 +3172,7 @@ display: none;
     position: absolute;
     left: -120px;
     z-index: 100;
-    padding: 41px;
+    padding: 44px 51PX 0PX 40px;
     background-repeat: no-repeat;
     background-size: contain;
     display: inline-block;
@@ -3199,11 +3205,14 @@ display: none;
     color: #ffffff;
     width: fit-content;
     position: relative;
-    top: 50px;
-    left: -132px;
+    top: 20px;
+    left: -134px;
     font-family: 'ZineSlabDisOT-Medi';
 }
 
+.bck-box-34>.bck-title p {
+    font-size: 30px;
+}
 
 #actividad .content .iniciounidad .header .title h3 {
     margin-top: 150px
