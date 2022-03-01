@@ -3225,7 +3225,12 @@ display: none;
 }
 
 .bck-box.bck-box-35>.bck-title {
-    color: #738A96;
+    color: #fff;
+    BACKGROUND-COLOR: #009DD1;
+    width: fit-content;
+    padding: 0 10px;
+    margin-top: -20px;
+    font-family: 'ZineSlabDisOT-Medi';
 }
 
 .bck-box.bck-box-35>.bck-title p {
