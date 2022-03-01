@@ -3184,7 +3184,6 @@ display: none;
     border-radius: 0;
 }
 
-
 .bck-box.bck-box-34>.bck-content {
     padding-left: 0;
     margin-top: -55px;
@@ -3214,6 +3213,28 @@ display: none;
 
 .bck-box-34>.bck-title p {
     font-size: 30px;
+}
+
+.bck-box.bck-box-35 {
+    margin-top: 15px;
+    border: none;
+    background: transparent;
+    background-color: #ffffff;
+    box-shadow: inset 1px 1px 16px 3px #c8d2d9;
+    padding: 10px;
+}
+
+.bck-box.bck-box-35>.bck-title {
+    color: #738A96;
+}
+
+.bck-box.bck-box-35>.bck-title p {
+    font-size: 22px;
+}
+
+.bck-box.bck-box-35>.bck-content {
+    padding: 10px;
+    color: #414141;
 }
 
 #actividad .content .iniciounidad .header .title h3 {
