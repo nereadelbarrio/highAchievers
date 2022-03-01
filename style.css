@@ -3068,7 +3068,7 @@ display: none;
 .bck-box.bck-box-32>.bck-title {
     background: #009dd1;
     font-family: 'ZineSlabDisOT-Medi';
-    margin-top: -10px;
+    margin-top: -11px;
     width: 105.8%;
     padding: 0px 0px 0px 31px;
     margin-left: -21px;
@@ -3098,6 +3098,7 @@ display: none;
     border-radius: 20px 80px 20px 80px;
     border-left: 130px solid #CBA93E;
     padding: 30px;
+    BACKGROUND-COLOR: #FFF;
 }
 
 .bck-box.bck-box-33:after {
@@ -3160,6 +3161,7 @@ display: none;
     border-radius: 20px 80px 20px 80px;
     border-left: 130px solid #A72160;
     padding: 30px;
+    BACKGROUND-COLOR: #FFF;
 }
 
 .bck-box.bck-box-34:after {
