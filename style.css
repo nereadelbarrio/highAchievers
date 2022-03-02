@@ -2159,6 +2159,10 @@ counter-increment: bck-li-counter;
     font-family: 'ZineSlabDisOT-Medi';
 }
 
+.bck-box.bck-box-1>.bck-title p {
+    font-size: 26px;
+}
+
 .bck-box.bck-box-2 {
     margin-top: 15px;
     border: none;
@@ -3038,6 +3042,10 @@ display: none;
     font-size: 26px;
     border: none;
     font-family: 'ZineSlabDisOT-Medi';
+}
+
+.bck-box.bck-box-31>.bck-title p {
+    font-size: 26px;
 }
 
 .bck-box.bck-box-31>.bck-content {
