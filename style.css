@@ -5423,11 +5423,11 @@ td,th {
         width: 325px
     }
 
-    .bck-box.bck-box-7 {
+    /*.bck-box.bck-box-7 {
         width: calc(100% + 40px);
         left: -20px;
         max-width: calc(100% + 40px);
-    }
+    }*/
 }
 
 @media only screen and (max-width: 1024px) and (min-width:769px) {
