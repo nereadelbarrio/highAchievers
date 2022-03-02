@@ -5453,6 +5453,12 @@ td,th {
         box-shadow: 0 3px 9px transparent
     }
 
+    /*.bck-box.bck-box-7 {
+    left: -97px;
+    width: calc(100% + 194px);
+    max-width: calc(100% + 194px);
+}*/
+
 }
 
 .tmpux.content_type_clase_highAchievers .highAchievers-navbar.modo_revision {
