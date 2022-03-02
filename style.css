@@ -2307,13 +2307,14 @@ counter-increment: bck-li-counter;
 }
 
 .bck-box.bck-box-7 {
-    position: relative;
-        padding: 0px;
-        background-size: cover;
         top: -22px;
-        left: -107px;
-        width: 127.9%;
-        margin-bottom: -40px;
+    margin-bottom: -40px;
+    position: relative;
+    left: -97px;
+    width: calc(100% + 194px);
+    padding: 0;
+    border: 0;
+    max-width: calc(100% + 194px);
 }
 
 .bck-box-7 > .bck-content {
@@ -5373,6 +5374,12 @@ td,th {
     .slide.crosswords-puzzle .enunciados {
         width: 325px
     }
+
+    .bck-box.bck-box-7 {
+        width: calc(100% + 40px);
+        left: -20px;
+        max-width: calc(100% + 40px);
+    }
 }
 
 @media only screen and (max-width: 1024px) and (min-width:769px) {
@@ -5397,6 +5404,7 @@ td,th {
         -moz-box-shadow: rgba(0,0,0,.298039) 0 3px 9px;
         box-shadow: 0 3px 9px transparent
     }
+
 }
 
 .tmpux.content_type_clase_highAchievers .highAchievers-navbar.modo_revision {
